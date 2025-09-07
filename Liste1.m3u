@@ -12,7 +12,7 @@ https://proxy.canlitvplayer.com/cartoonnetwork.blutv.com/blutv_cartoonnetwork/li
 #EXTINF:-1 tvg-id="TRT SPOR" tvg-name="TRT SPOR" tvg-logo="https://cdn-i.pr.trt.com.tr/trttv/w750/h750/q100/13687983.png" group-title="SPOR",TRT SPOR
 https://tv-trtspor1.medya.trt.com.tr/master_720.m3u8
 #EXTINF:-1 tvg-id="A Spor" tvg-name="A Spor" tvg-logo="https://i.imgur.com/ZhkZzLf.png" group-title="SPOR",A Spor
-http://stream.tvcdn.net/spor/a-spor.m3u8
+https://trkvz.daioncdn.net/aspor/aspor_720p.m3u8?e=1757315871&sig=155dfdefc5943214b8ab89df838abcbf&st=1vh1MUXnHA8ZK9edLq2ZSg&sid=7q77843tr55w&app=b6bf3b55-0120-4e0f-983b-a6c7969f9ec6&ce=3
 #EXTINF:-1 tvg-id="A Spor Yedek" tvg-name="A Spor Yedek" tvg-logo="https://i.imgur.com/ZhkZzLf.png" group-title="SPOR",A Spor Yedek
 https://hw1.jemtv.com/app/ASporHD/playlist.m3u8
 #EXTINF:-1 tvg-id="BEİN SPORTS HABER" tvg-name="BEİN SPORTS HABER" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSfo669QEqZnfPcfmYHkkqx-ZAH2-paEkbF6DcgkkcGiVEFBhBk-WfuoMc&s=10" group-title="SPOR",BEİN SPORTS HABER
@@ -48,9 +48,9 @@ http://stream.tvcdn.net/ekonomi/cnbc-e.m3u8
 #EXTINF:-1 tvg-id="CNBC-E YEDEK" tvg-name="CNBC-E YEDEK" tvg-logo="https://s.cnbce.com/dist/images/logo.png" group-title="GENEL",CNBC-E YEDEK
 https://uzunmuhalefet.serv00.net/canlitv2.php?id=13406&.m3u8
 #EXTINF:-1 tvg-id="A2" tvg-name="A2" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/e/e8/A2_logosu.jpg" group-title="GENEL",A2
-http://stream.tvcdn.net/eglence/a2.m3u8
+https://trkvz.daioncdn.net/a2tv/a2tv_720p.m3u8?e=1757315950&sig=9dad948419a1409fa6a8d2d8a7cff3ed&st=M3ilCdBuI3-0-i8j8V1HxA&sid=7q77cb26cste&app=59363a60-be96-4f73-9eff-355d0ff2c758&ce=3
 #EXTINF:-1 tvg-id="A2 | B" tvg-name="A2 | B" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/e/e8/A2_logosu.jpg" group-title="GENEL",A2 | B
-http://hw1.jemtv.com/app/a2hd/playlist.m3u8
+https://trkvz.daioncdn.net/a2tv/a2tv.m3u8?ce=3&app=59363a60-be96-4f73-9eff-355d0ff2c758&st=M3ilCdBuI3-0-i8j8V1HxA&e=1757315950&dfp_paln=AQzzBGQEjf8ZpEZPaeH1Iyq7AEYoY6c2HHy24ItN2D3v-bGagMJZeXH5Q-rDLKDB5Nk2aQmHLuBVG3UQ7ompC30BMGtfDqxpzldzXhSgtqkpUQSP2XcjMlGErgyrhyv6zpH3lxhpeBv_Cz2oRMpqDRFvaaSHusqjJaqAYzYUxzsz1-XjjhGBx7YR9qx2Jys5a0pyoTvIfIzWA3J2s-q1djOydeq7_FdcaW2m8nTiwUysZgZogt5IhDSp1dUk1X7ysDKX7W3HCB5djluUSXzZzU5neihQPU6xQjd3cLhkmoUezASIr3kc8UeI0MF1jdzwv6u2jdtJiM8xp6gZf7xo5552hic-n11fWRQK1vbQBRzaRfdHkyrrRnEUSp3QFRY79pqSUwXA8D73ONdzW3whQcAzTMqtLB35hj8CmSK4ItBaZ2vVB3OJLkKNyVP25F2xxvn1bqvt5CnLHNU_P_9Qy-CO805CfTGDjC1bRuwZsnQbWC6IOdZ-cH6_AwaAOH2W1O_ABrmgxOKZbQopUUeKrRRCPOfjFMZypahADvdvFE-X4wBpwPU_hPQaoyTXYp2p9XL_3625Nr5sBFZyje--HlP16jdm9lKBF2poXuvUFb3PTemsCLhIGzipDNu9ircun1oQ1dhoebBEvmFSZvrdqcjLCO_-FJfiLfu5wpnBYYq-VtuimIACLoz62U42r8Ha3yiAEXja8cwe1vQ4uFYPQ4woybIbxJuCznKOQTzqgA11oudLuXv_csz_5DDnvJmVQTZuR0r5cSmx3y7l8USnJmcEU__HRGlLi2ZiFffUFXeWwophgpRgLoPfatFZVGrEXvk8REGjqB4ag9IKdBhSLzr6ZDlButYISPfeHYKOSIr-bnnNKXRssF7oFU1QgDpdYAsKQZUdaCq8tvcLWR6NnkDP5hwe2RNxJRFmtMyPHp1TvdInKFgdtXkACZhHxVBcfggDhnpl4WxYdWRvWGjjkWOBIuc9SKmhiLD9m6Xdtfg9Fn-lES3TWaLNncDl3XzVa1GSV2xWrQLFASCeO5Bm80sMTwlWuAfuUV2-j2QKErTFLmOvpst4tu4WqvSCuhjczVKCZujdfW39V169uk6rdc310s8.&sid=7q77cb26cste&sig=9dad948419a1409fa6a8d2d8a7cff3ed
 #EXTINF:-1 tvg-id="A2 | C" tvg-name="A2 | C" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/e/e8/A2_logosu.jpg" group-title="GENEL",A2 | C
 https://c.fulltvizle.com/a2/index.m3u8
 #EXTINF:-1 tvg-id="A2 Yedek" tvg-name="A2 Yedek" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/e/e8/A2_logosu.jpg" group-title="GENEL",A2 Yedek
@@ -64,10 +64,10 @@ http://stream.tvcdn.net/haber/cnn-turk.m3u8
 #EXTINF:-1 tvg-id="CNN TÜRK YEDEK" tvg-name="CNN TÜRK YEDEK" tvg-logo="https://blutv-images.mncdn.com/q/t/i/bluv2/100/750x750/61236013866ac319e8143500" group-title="HABER",CNN TÜRK YEDEK
 http://hw1.jemtv.com/app/cnnturk/chunks.m3u8
 #EXTINF:-1 tvg-id="A HABER" tvg-name="A HABER" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7c/Ahaber_Logo.png" group-title="HABER",A HABER
-http://stream.tvcdn.net/haber/a-haber.m3u8
+https://trkvz-live.ercdn.net/ahaberhd/ahaberhd_720p.m3u8?st=lx414AGOfuInkBurnpAIZg&e=1757316096
 #EXTINF:-1 tvg-id="A HABER YEDEK" tvg-name="A HABER YEDEK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7c/Ahaber_Logo.png" group-title="HABER",A HABER YEDEK
 http://hw1.jemtv.com/app/AHaber/chunks.m3u8
 #EXTINF:-1 tvg-id="24" tvg-name="24" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/archive/e/e9/20091218163738%21Kanal_24.png" group-title="HABER",24
 https://turkmedya-live.ercdn.net/tv24/tv24_720p.m3u8
 #EXTINF:-1 tvg-id="MİNİKA GO" tvg-name="MİNİKA GO" tvg-logo="https://i.ibb.co/2ZwxWr0/minika-go.png" group-title="ÇOCUK",MİNİKA GO
-http://stream.tvcdn.net/cocuk-egitim/minika-go.m3u8
+https://trkvz.daioncdn.net/minikago/minikago_720p.m3u8?e=1757316041&sig=bdf37dca0399ea23830b17af2823fa86&st=JRGRof2CwUylWeTz5T7RIQ&sid=7q77h6jhjpi2&app=1a0fa873-c3df-4874-8182-baec3fcf4814&ce=3
