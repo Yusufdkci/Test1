@@ -26,13 +26,13 @@ http://stream.tvcdn.net/ulusal/atv.m3u8
 #EXTINF:-1 tvg-id="ATV Yedek" tvg-name="ATV Yedek" tvg-logo="https://i.ibb.co/n1SCYqN/atv.png" group-title="GENEL",ATV Yedek
 https://hw1.jemtv.com/app/ATVHD/chunks.m3u8
 #EXTINF:-1 tvg-id="KANAL D" tvg-name="KANAL D" tvg-logo="https://cdn.freelogovectors.net/wp-content/uploads/2018/03/kanal_d_logo.png" group-title="GENEL",KANAL D
-https://demiroren-live.daioncdn.net/kanald/kanald_720p.m3u8
+https://demiroren.daioncdn.net/kanald/kanald_720p.m3u8?sig=a3ede9d7d8f4d77a9debeb89fe22752a&sid=7ukpuml6xczc&app=da2109ea-5dfe-4107-89ab-23593336ed61&ce=3
 #EXTINF:-1 tvg-id="STAR TV" tvg-name="STAR TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTODT1C4SB518JljOlb7etd8VRmpGQJSyiFVw&s" group-title="GENEL",STAR TV
-https://dogus-live.daioncdn.net/startv/startv_720p.m3u8
+https://dogus.daioncdn.net/startv/startv_720p.m3u8?sig=cc68fc2b65324f67e9c8ee2e9d56d1db&sid=7ukqybd3tddq&app=a20ac41e-bdc3-4aa1-934d-26b484480ac9&ce=3
 #EXTINF:-1 tvg-id="SHOW TV" tvg-name="SHOW TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f1/Logo_of_Show_TV.png" group-title="GENEL",SHOW TV
-https://ciner-live.daioncdn.net/showtv/showtv_720p.m3u8
+https://ciner.daioncdn.net/showtv/showtv_720p.m3u8?ex=1664766175&sig=ae489f32a87b0659d25bd88421729530&st=RBzhSuGauna0OGld-DJUVA&tv=1&sid=7ukrat2ms282&app=4bc856ef-4c68-4a94-bc87-37dfaaa66558&ce=3
 #EXTINF:-1 tvg-id="TV8" tvg-name="TV8" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/6/68/Tv8_Yeni_Logo.png" group-title="GENEL",TV8
-https://tv8-live.daioncdn.net/tv8/tv8_720p.m3u8
+https://tv8.daioncdn.net/tv8/tv8_720p.m3u8?sig=9a72d1716d1a0f0d17fc09ee7671a7ab&sid=7ukpe2oj02fk&app=7ddc255a-ef47-4e81-ab14-c0e5f2949788&ce=3
 #EXTINF:-1 tvg-id="TV8.5" tvg-name="TV8.5" tvg-logo="https://yt3.googleusercontent.com/-vaIq06Du-qfHHBi-NyA37lxaTCOYv3CBl093Hm42IetGFzWtDxZxs3MScfHCBczf26Ldlj2=s900-c-k-c0x00ffffff-no-rj" group-title="GENEL",TV8.5
 https://tv8.daioncdn.net/tv8bucuk/tv8bucuk_720p.m3u8?sig=3e1e7e77bd21da485aa2c59a649bcb17&sid=6t07ysfz9eyd&app=bf58ab52-4865-4c81-b223-26b41009801e&ce=3
 #EXTINF:-1 tvg-id="BEYAZ TV" tvg-name="BEYAZ TV" tvg-logo="https://www.beyaztv.com.tr/images/logo.png" group-title="GENEL",BEYAZ TV
@@ -72,11 +72,11 @@ https://turkmedya-live.ercdn.net/tv24/tv24_720p.m3u8
 #EXTINF:-1 tvg-id="MİNİKA GO" tvg-name="MİNİKA GO" tvg-logo="https://i.ibb.co/2ZwxWr0/minika-go.png" group-title="ÇOCUK",MİNİKA GO
 https://trkvz.daioncdn.net/minikago/minikago_720p.m3u8?e=1757316041&sig=bdf37dca0399ea23830b17af2823fa86&st=JRGRof2CwUylWeTz5T7RIQ&sid=7q77h6jhjpi2&app=1a0fa873-c3df-4874-8182-baec3fcf4814&ce=3
 #EXTINF:-1 tvg-id="Lost S4B4" tvg-name="Lost S4B4" tvg-logo="https://geekyapar.com/wp-content/uploads/2019/11/lost-1.jpg" group-title="GENEL",Lost S4B4
-https://be6721.rcr72.waw04.i8yz83pn.com/hls2/03/03792/6sbrr3llxyui_h/master.m3u8?t=f1pJv4gLJnsmVc6kOqKkVWHDXr1eC8D7wm1QapveAoc&s=1758997745&e=10800&f=18960669&srv=1065&asn=9121&sp=4000&p=
+https://dogus.daioncdn.net/startv/startv_720p.m3u8?sig=75299ace8ac8ce9c1f6c262430270c8c&token=TjZDY2VVWFBPWEZRWllxaXFwVkhpK1ZxNFkrenRqemp0aUhtYm4ySHlaWT0=&sid=7ukr3gyipxk9&app=1740db13-3ee9-4858-8d2c-b1a9cfaa3718&ce=3
 #EXTINF:-1 tvg-id="Lost S4B5" tvg-name="Lost S4B5" tvg-logo="https://geekyapar.com/wp-content/uploads/2019/11/lost-1.jpg" group-title="GENEL",Lost S4B5
-https://be6721.rcr72.waw04.i8yz83pn.com/hls2/03/03792/6sbrr3llxyui_h/index-v1-a1.m3u8?t=f1pJv4gLJnsmVc6kOqKkVWHDXr1eC8D7wm1QapveAoc&s=1758997745&e=10800&f=18960669&srv=1065&asn=9121&sp=4000&p=
+https://dogus.daioncdn.net/startv/startv_720p.m3u8?sig=0109cd30b0ab671366995a8fdff48405&token=TjZDY2VVWFBPWEZRWllxaXFwVkhpK1ZxNFkrenRqemp0aUhtYm4ySHlaWT0=&sid=7ukr1pew7lek&app=1740db13-3ee9-4858-8d2c-b1a9cfaa3718&ce=3
 #EXTINF:-1 tvg-id="Lost S4B6" tvg-name="Lost S4B6" tvg-logo="https://geekyapar.com/wp-content/uploads/2019/11/lost-1.jpg" group-title="GENEL",Lost S4B6
-https://be6721.rcr72.waw04.i8yz83pn.com/hls2/03/03792/6sbrr3llxyui_h/master.m3u8?t=tWc-BFg5uQF0hOw_k_qI3PymowtlDvjJvSGAbQX13Xk&s=1758983610&e=10800&f=18960669&srv=1065&asn=9121&sp=4000&p=
+https://tv8.daioncdn.net/tv8/tv8_1080p.m3u8?sig=9a72d1716d1a0f0d17fc09ee7671a7ab&sid=7ukpe2oj02fk&app=7ddc255a-ef47-4e81-ab14-c0e5f2949788&ce=3
 #EXTINF:-1 tvg-id="Lost S4B8" tvg-name="Lost S4B8" tvg-logo="https://geekyapar.com/wp-content/uploads/2019/11/lost-1.jpg" group-title="GENEL",Lost S4B8
 https://dogus.daioncdn.net/tlc/tlc.m3u8?ce=3&app=1aca0aa1-06e3-41ff-a8e5-38d7df475469&token=UkZBSVp0ODR1aGdoZ3FSVFc4RnVKSGlsZHVjNVRacHFSM2JKSng1OW5OVT0=&dfp_paln=AQzzBGQEet7Ca8mjx8MfuSGXUGD0slFhD8lWVELjIiCoOQRv-hEqOioiM9KjuqaSM5gKRkuxYHzsfZHzTGpUPZ1o8QASHVeAKgik9JWqserQfuULHpeiUrlY24jqB0QIvMUZt39C1o27692DhkwmU4mefvK5cWYYFVqcC0cSvGgv57WX5cmcu_KABgfxfBg96ft3GFrTaeD02rT0Oop0vxAVTyaR8cpkNfehVIbRqDpJgjBZxp-ih4WPFirkrPDZEaZwsBKWvdvHgH4VrQCC5P6tgkkKwUu5Mebu5YvV10zjoQflcjES2S2dRR6FgbRpWnz89iaEbEML8JU_moZQEGTaPUTOTI8EscX98PtKO48HMXfuqmQR4STQtkuWhvKke0w9eicpMqarFHAHhGiA9u-WPnXJMam8vs_90IqwfYo3SvbUcgII8Gghwlaj2U83IUbtmAU_jtbDcYTA8b5KqXxIxVmgR2brWZLoczAh6-2hGq8O1nXu0zO2zeiN3887LYFhx8Mhdms7i3T6rhjxEXcUgcg-S1Pkupd5RbYhNSrH7bWqK0CAoUFPrt0zVkZiDA-YbfZYZQAmgh8y5vbIGAAErOjXCqb6YAySSZ-x1cNJuo7YkjhgyZZf6M9RNL2sz4k33IiJ-KmYq_6nKHm1qYOLLz7RnInwn8qn8uHRpoMBdQ_ziF6jSZJZPGNa-bCRs8BwZSivTGrzgB8BgFJTvI1X694vy9fIoBNehKrSKukHSNypw2QcsaEGq8Wlnhx4fHFFTtlkkCzXJOGDuMomk850fJRgyHrXapD3kX9_L6LgqvMYTaA1Cvu6Vqfgjny8NHKn0hEOlyMJ1kDXf7MHbT_bYtO8oevutmch6CWWUEhoVRIt4rdtBM-FY-ypohn2PXgDhf77WW4_M6MkpJpO74x72oUhQwYvM9qJdye4l1-eOzZrTOjWTmbVBfjfcc0Lw0xEIgzK8icvgYm0_aGkUjQYh51ORvXWtFWf918D2I01cAwNQqA-5qEFRTShs9LTlJljpKIH4e6KOhkqxalkV_s3K00jLIur4m4RqPLpUz5Z_9zOqBK2obon8Jv2leWsh36ugitpzrpL8esF_u-lF3megx2pNWrOhA3_D4dAAGC6bbVBZ8nyKeXZZ6Mh6SV1AaBmODJ7dHi74X33pT7z0EpKt-InegAMA_q8IBmokiKNWqisq_trYgEwFxU2xkIt7ujl1rZwT-kWpOoMb2ss5CJS6Dhih2NMHtJAd0uPx_B-p9_1DrwM3qBs_j4-m87enrEhIVZOjZHOp17fczyaGFiNVEfQsCkK5cjtJeSlPL3Oqveh3ai6qlVpr-dqUv4vCtyqzpMq2ZxSMP4krw4cPeQudTKt2A..&sid=7u5jlcbgrcnh&sig=675e308146408dd90b3d11d2c4a4fa14
 
