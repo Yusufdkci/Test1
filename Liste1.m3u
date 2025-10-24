@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="TRT1.tr" tvg-name="TRT1" tvg-logo="https://cdn-i.pr.trt.com.tr/trttv/w750/h750/q100/10660277.png" group-title="GENEL",TRT1
-https://cdn501.freebroadcast.vip/trt1720.m3u8?tkn=7j4mQIRmV_mNXJFm1Xkwdw&tms=1761144334&hst=iframe.canlitvme.com&ip=88.243.193.72
+https://trt.daioncdn.net/trt-1/master_720p.m3u8?app=web
 #EXTINF:-1 tvg-id="TRT HABER" tvg-name="TRT HABER" tvg-logo="https://cdn-i.pr.trt.com.tr/trttv/w750/h750/q100/8971102.png" group-title="HABER",TRT HABER
 https://tv-trthaber.medya.trt.com.tr/master_720.m3u8
 #EXTINF:-1 tvg-id="TRT BELGESEL" tvg-name="TRT BELGESEL" tvg-logo="https://cdn-i.pr.trt.com.tr/trttv/w750/h750/q100/8114410.png" group-title="BELGESEL",TRT BELGESEL
@@ -10,7 +10,7 @@ https://tv-trtcocuk.medya.trt.com.tr/master_720.m3u8
 #EXTINF:-1 tvg-id="CARTOON NETWORK" tvg-name="CARTOON NETWORK" tvg-logo="https://i.ibb.co/X5yPXkD/cartoon-network.png" group-title="ÇOCUK",CARTOON NETWORK
 https://proxy.canlitvplayer.com/cartoonnetwork.blutv.com/blutv_cartoonnetwork/live_720p2000000kbps/index.m3u8
 #EXTINF:-1 tvg-id="TRT SPOR" tvg-name="TRT SPOR" tvg-logo="https://cdn-i.pr.trt.com.tr/trttv/w750/h750/q100/13687983.png" group-title="SPOR",TRT SPOR
-https://tv-trtspor1.medya.trt.com.tr/master_720.m3u8
+https://trt.daioncdn.net/trtspor/master_480p.m3u8?platform=trtspor&sid=6sknaoigvegn&app=9b65474e-8197-4899-aabb-321fcf6dd9eb&ce=2
 #EXTINF:-1 tvg-id="A Spor" tvg-name="A Spor" tvg-logo="https://i.imgur.com/ZhkZzLf.png" group-title="SPOR",A Spor
 https://cdn505.freebroadcast.vip/aspor720.m3u8?tkn=P1F74UlBA6sUtTzfXkZ8gA&tms=1761141387&hst=tv.canlitvme.com&ip=88.243.193.72
 #EXTINF:-1 tvg-id="A Spor Yedek" tvg-name="A Spor Yedek" tvg-logo="https://i.imgur.com/ZhkZzLf.png" group-title="SPOR",A Spor Yedek
@@ -95,6 +95,17 @@ https://cdn501.freebroadcast.vip/ntv720.m3u8?tkn=I6_loOKkGdYo35UAq0yqYg&tms=1761
 https://cdn900.canlitvme.com/tivibuspor.m3u8?tkn=7fgCTBXOsYTOKm6TlD_k3g&tms=1761141463&hst=tv.canlitvme.com&ip=88.243.193.72
 #EXTINF:-1 tvg-id="BEİN SPORTS HABER" tvg-name="BEİN SPORTS HABER" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSfo669QEqZnfPcfmYHkkqx-ZAH2-paEkbF6DcgkkcGiVEFBhBk-WfuoMc&s=10" group-title="SPOR",BEİN SPORTS HABER
 https://cdn503.freebroadcast.vip/beinsporthaber.m3u8?tkn=irJtDxkHmQpGSZGCrpXFSg&tms=1761145779&hst=m.canlitv.direct&ip=88.243.193.72
+#EXTINF:-1 tvg-id="TRT1.tr" tvg-name="TRT1" tvg-logo="https://cdn-i.pr.trt.com.tr/trttv/w750/h750/q100/10660277.png" group-title="GENEL",TRT1
+https://trt.daioncdn.net/trt-1/master_720p.m3u8?&sid=6skm73ev5hwn&app=ed3904e8-737b-4a5e-856a-1b0d7a0a94e2&ce=2
+#EXTINF:-1 tvg-id="TRT1.tr" tvg-name="TRT1" tvg-logo="https://cdn-i.pr.trt.com.tr/trttv/w750/h750/q100/10660277.png" group-title="GENEL",TRT1
+https://trt.daioncdn.net/trt-1/master_720p.m3u8?sig=015f7390da20e094a49822dbd38c8b28&sid=6s9hpg4oux50&app=ed3904e8-737b-4a5e-856a-1b0d7a0a94e2&ce=2
+
+
+
+
+
+
+
 
 
 
