@@ -113,49 +113,51 @@ https://trt.daioncdn.net/trtspor/master_720p.m3u8?platform=trtspor&sig=15dd874bb
 https://dogus.daioncdn.net/ntv/ntv_720p.m3u8?sig=3ad73b092a22ec5c3b7c71a79ff49cd7&token=e8c0dec16bf84c8cc187224d13811c0e705fd2c58b25d7ee&sid=7umf0dkeejjq&app=c68bddbe-3dbf-49f7-892a-93de5ae37f1f&ce=3
 #EXTINF:-1, Ntv
 http://dygvideo.dygdigital.com/live/hls/ntv4puhu?m3u8
+#EXTM3U
 #EXTINF:-1, Filmler
+https://m.youtube.com/watch?v=AgUcOdZZEqo
 #EXTINF:-1, ıron man
 https://vidrame.pro/vr/get/ef7709d0/1080.txt
 #EXTINF:-1, ıron man 3
 https://s3.pixypost.art/mh/ETIgnKVhDJEuoF4mYwRjBQOjYxEIDHjd0zxpTy4rKOip3DhLKW0s0xi3vr1
 #EXTINF:-1, avengers
 https://vidrame.pro/vr/get/9de3d24b/1080.txt
-batman
+#EXTINF:-1, batman
 https://vidrame.pro/vr/get/503b6fee/1080.txt
-karınca adam 3
+#EXTINF:-1, karınca adam 3
 https://s18.photogrids.site/md/DJ50Yx1uov5uozDhqTuyYyqup3NhHKIuoaE1oJShnJRhZwNlZl5WI0IPYHEZYwRjBQOjYxEIDHjd0zxpTuiqT9apzyxpl5mnKEys0xi18vr1
-thor 4
+#EXTINF:-1, thor 4
 https://vidrame.pro/vr/get/5cac84cf/1080.txt
-venom zehirli öfke
+#EXTINF:-1, venom zehirli öfke
 https://vidrame.pro/vr/get/eb165b32/720.m3u8
-spiderman eve dönüş yok
+#EXTINF:-1, spiderman eve dönüş yok
 https://s26.imglink.pro/mv/H3OcMTIlYH1uov5Bol5KLKxhFT9gMF4lZQVkYxWfqKWurF4kZQtjpP5RIHRd0zxnJ1aoTyhnl5jpz8s0xi26vr1b2160
-spiderman eve dönüş
+#EXTINF:-1, spiderman eve dönüş
 https://s4.imagescdns.pics/m6/H3OcMTIlYx1uov5TLKVhMaWioF5Vo21yYwVjZGxhDzk1pzS5YwRjBQOjYxEIDHjd0zxnJ1uM2ImL2Ehpl5jnJAms0xi4vr1
-spiderman homecoming
+#EXTINF:-1, spiderman homecoming
 https://s24.imagehub.pics/mn/H3OcMTIlYH1uov5Vo21yL29gnJ5aYwVjZGphDzk1pzS5YwRjBQOjYxEIDHjd0zxnJ1uM2IbqJVhpTywpjs0xi24vr1
-spiderman far from home
+#EXTINF:-1, spiderman far from home
 https://vidrame.pro/vr/get/7c802b5c/720.m3u8
-spiderman homecoming 
+#EXTINF:-1, spiderman homecoming 
 https://vidrame.pro/vr/get/189e48ab/720.m3u8
-spiderman 
+#EXTINF:-1, spiderman 
 https://vidrame.pro/vr/get/6bc60fee/720.m3u8
-spiderman 
+#EXTINF:-1, spiderman 
 https://vidrame.pro/vr/get/b550b4ac/720.m3u8
-spiderman 
+#EXTINF:-1, spiderman 
 https://vidrame.pro/vr/get/6229c3cc/480.m3u8
-black widow
+#EXTINF:-1, black widow
 https://vidrame.pro/vr/get/226fe687/1080.txt
-hızlı ve öfkeli 10
+#EXTINF:-1, hızlı ve öfkeli 10
 https://s24.seeshare.pics/mv/EzSmqP5LYwVjZwZhDzk1pzS5YwRjBQOjYxEIDHjd0zxp2Iyp2uupzHhpTywpjs0xi24vr1
-hızlı ve öfkeli 7
+#EXTINF:-1, hızlı ve öfkeli 7
 https://vidrame.pro/vr/get/66988bb7/1080.txt
-hızlı ve öfkeli 6
+#EXTINF:-1, hızlı ve öfkeli 6
 https://vidrame.pro/vr/get/25624c87/1080.txt
-hızlı ve öfkeli 5
+#EXTINF:-1, hızlı ve öfkeli 5
 https://vidrame.pro/vr/get/03790982/1080.txt
-hızlı ve öfkeli 4
+#EXTINF:-1, hızlı ve öfkeli 4
 https://vidrame.pro/vr/get/63bc9250/1080.txt
-hızlı ve öfkeli 1
+#EXTINF:-1, hızlı ve öfkeli 1
 https://vidrame.pro/vr/get/2ab5b9a3/1080.txt
 
