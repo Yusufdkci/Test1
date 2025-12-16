@@ -5,7 +5,7 @@ https://trt.daioncdn.net/trt-1/master_720p.m3u8?app=web
 https://trt.daioncdn.net/trt-1/master_720p.m3u8?&sid=6skm73ev5hwn&app=ed3904e8-737b-4a5e-856a-1b0d7a0a94e2&ce=2
 #EXTINF:-1 tvg-id="TRT1.tr" tvg-name="TRT1" tvg-logo="https://cdn-i.pr.trt.com.tr/trttv/w750/h750/q100/10660277.png" group-title="GENEL",TRT1
 https://trt.daioncdn.net/trt-1/master_720p.m3u8?sig=015f7390da20e094a49822dbd38c8b28&sid=6s9hpg4oux50&app=ed3904e8-737b-4a5e-856a-1b0d7a0a94e2&ce=2
-#EXTINF:-1, 
+#EXTINF:-1, TRT 1
 https://tv-trt1.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="TRT HABER" tvg-name="TRT HABER" tvg-logo="https://cdn-i.pr.trt.com.tr/trttv/w750/h750/q100/8971102.png" group-title="HABER",TRT HABER
 https://tv-trthaber.medya.trt.com.tr/master_720.m3u8
@@ -87,16 +87,6 @@ http://live.tv-youtube.workers.dev/?ID=UCPe9vNjHF1kEExT5kHwc7aw
 https://dogus.daioncdn.net/dmax/dmax_720p.m3u8?sig=af527ce6e5d69222a29b858f32df80df&token=TkQ1M21pVmhJTkxGRlFzV21QMjhJVFhnMG5HRjYrOFhZKzRLQ2RlUDJ6VT0=&sid=6t2iv0z0s1w4&app=5a02c599-d17e-4982-9b04-090934d51af7&ce=3
 #EXTINF:-1 tvg-id="Dmax" tvg-name="Dmax" tvg-logo="https://i.hizliresim.com/4jlqmv0.png" group-title="BELGESEL",Dmax
 http://dygvideo.dygdigital.com/live/hls/dmaxdai?m3u8
-######## yedek logo ########
-https://upload.wikimedia.org/wikipedia/commons/2/25/DMAX_Logo_16_05_2011.jpg
-
-https://cdn.statically.io/img/imgs.ct.ws/dmaxhd.png
-
-bu 360
-https://i.ibb.co/FVnG3Zr/360tv.png
-
-https://yt3.googleusercontent.com/7caGBnut6H9aFvL71oqhRbMEy1sE0VIO3oOvuhONRRdQKNzjNqjLW3ySJr-8NR1dnjKcNI62_g=s160-c-k-c0x00ffffff-no-rj
-######## yedek logo ########
 #EXTINF:-1 tvg-id="TLC" tvg-name="TLC" tvg-logo="https://img-tlctv.mncdn.com/logo.png" group-title="BELGESEL",TLC
 https://dogus.daioncdn.net/tlc/tlc_720p.m3u8?sig=876201ff1569c18da4b66965b764faf2&token=UkZBSVp0ODR1aGdoZ3FSVFc4RnVKSGlsZHVjNVRacHFSM2JKSng1OW5OVT0=&sid=7u5ircm7us8f&app=1aca0aa1-06e3-41ff-a8e5-38d7df475469&ce=3
 #EXTINF:-1 tvg-id="TLC" tvg-name="TLC" tvg-logo="https://i.hizliresim.com/o6w42nk.png" group-title="BELGESEL",TLC
@@ -301,8 +291,18 @@ http://87.121.104.29:145/guldurguldur/stream.m3u8
 #EXTINF:-1, Güldür Güldür 7/24
 https://streams.uzunmuhalefet.com/stream/0fd9c899-f46c-4814-9ee8-da027d09d414.m3u8
 
+#EXTINF:-1 tvg-id="Sinema 1" tvg-name="Sinema 1" tvg-logo="https://e7.pngegg.com/pngimages/879/420/png-clipart-film-video-production-television-graphy-cine-miscellaneous-label-thumbnail.png" group-title="GENEL",Sinema 1
+https://host.onlineradyotv.net:8081/sdmtv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="Sinema 1" tvg-name="Sinema 1" tvg-logo="https://e7.pngegg.com/pngimages/879/420/png-clipart-film-video-production-television-graphy-cine-miscellaneous-label-thumbnail.png" group-title="GENEL",Sinema 1
+https://streams.uzunmuhalefet.com/stream/5e98fbc1-ddd0-4c55-a6fa-f2e2dec6687c.m3u8
 #EXTINF:-1 tvg-id="sinema tv test" tvg-name="sinema tv test" tvg-logo="https://e7.pngegg.com/pngimages/879/420/png-clipart-film-video-production-television-graphy-cine-miscellaneous-label-thumbnail.png" group-title="GENEL",sinema tv test
 https://channels01.denek1544.workers.dev/channel/U2luZW1hIFRW
+#EXTINF:-1 tvg-id="Play Sinema" tvg-name="Play Sinema" tvg-logo="https://r.resimlink.com/JhZ4a.png" group-title="GENEL",Play Sinema
+https://ip100.radyotelekomtv.com:3784/stream/play.m3u8
+#EXTINF:-1 tvg-id="Yansıma Sinema" tvg-name="Yansıma Sinema" tvg-logo="https://r.resimlink.com/9NO6M.png"GENEL",Yansıma Sinema
+http://cdn4.yayin.com.tr/yansimasinematv/video.m3u8
+#EXTINF:-1 tvg-id="Yansıma Sinema" tvg-name="Yansıma Sinema" tvg-logo="https://r.resimlink.com/9NO6M.png"GENEL",Yansıma Sinema
+https://streams.uzunmuhalefet.com/stream/53925bf1-48ce-46e1-894b-d0fceb2ffea4.m3u8
 
 #EXTINF:-1, Dizi Smart Premium 
 http://plusjustone.xyz:8080/play/live.php?mac=00:2A:01:90:E8:E5&stream=591438&extension=ts
@@ -359,20 +359,10 @@ http://plusjustone.xyz:8080/play/live.php?mac=00:2A:01:90:E8:E5&stream=591428&ex
 http://plusjustone.xyz:8080/play/live.php?mac=00:2A:01:90:E8:E5&stream=591414&extension=ts
 #EXTINF:-1, SINEMA TV HD
 http://plusjustone.xyz:8080/play/live.php?mac=00:2A:01:90:E8:E5&stream=591415&extension=ts
-#EXTINF:-1 tvg-id="Play Sinema" tvg-name="Play Sinema" tvg-logo="https://r.resimlink.com/JhZ4a.png" group-title="GENEL",Play Sinema
-https://ip100.radyotelekomtv.com:3784/stream/play.m3u8
-#EXTINF:-1 tvg-id="Yansıma Sinema" tvg-name="Yansıma Sinema" tvg-logo="https://r.resimlink.com/9NO6M.png"GENEL",Yansıma Sinema
-http://cdn4.yayin.com.tr/yansimasinematv/video.m3u8
-#EXTINF:-1 tvg-id="Yansıma Sinema" tvg-name="Yansıma Sinema" tvg-logo="https://r.resimlink.com/9NO6M.png"GENEL",Yansıma Sinema
-https://streams.uzunmuhalefet.com/stream/53925bf1-48ce-46e1-894b-d0fceb2ffea4.m3u8
 #EXTINF:-1, emret komutanım 
 https://streams.uzunmuhalefet.com/stream/c4a994c3-9c80-4fb3-a50c-be40e0b0c972.m3u8
 #EXTINF:-1, sakarya fırat
 https://streams.uzunmuhalefet.com/stream/21f6ba90-50e1-44e8-8423-49a3233d5efb.m3u8
-#EXTINF:-1 tvg-id="Sinema 1" tvg-name="Sinema 1" tvg-logo="https://e7.pngegg.com/pngimages/879/420/png-clipart-film-video-production-television-graphy-cine-miscellaneous-label-thumbnail.png" group-title="GENEL",Sinema 1
-https://host.onlineradyotv.net:8081/sdmtv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="Sinema 1" tvg-name="Sinema 1" tvg-logo="https://e7.pngegg.com/pngimages/879/420/png-clipart-film-video-production-television-graphy-cine-miscellaneous-label-thumbnail.png" group-title="GENEL",Sinema 1
-https://streams.uzunmuhalefet.com/stream/5e98fbc1-ddd0-4c55-a6fa-f2e2dec6687c.m3u8
 #EXTINF:-1, Deniz Sinema
 https://live.artidijitalmedya.com/artidijital_denizpostasi/denizpostasi/chunks.m3u8
 
@@ -604,6 +594,5 @@ https://pixeldrain.com/api/file/nUUutx8i?=.mp4
 https://vidrame.pro/vr/get/ff237c85/1080.txt?=.mp4
 #EXTINF:-1, test Araba Hırsızları (PIXEL)
 https://pixeldrain.com/api/file/r5NveXJ5?=.mp4
-
 
 
