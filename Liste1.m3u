@@ -104,6 +104,9 @@ https://streams.uzunmuhalefet.com/stream/d22a7171-68af-48ad-bd70-b2b6912fcdec.m3
 #EXTINF:-1 tvg-id="Tivibu Spor" tvg-name="Tivibu Spor" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/3/36/Tivibu_spor_logosu.jpg" group-title="SPOR",Tivibu Spor
 https://streams.uzunmuhalefet.com/stream/e47153e0-42fe-4980-8570-e840d1cc1cf4.m3u8
 
+#EXTINF:-1, @@@ YEDEKLER @@@
+https://videos.pexels.com/video-files/17275616/17275616-uhd_1440_2560_30fps.mp4?=.mpg
+
 #EXTINF:-1 tvg-id="TRT1.tr" tvg-name="TRT1" tvg-logo="https://cdn-i.pr.trt.com.tr/trttv/w750/h750/q100/10660277.png" group-title="YEDEK",TRT1
 https://trt.daioncdn.net/trt-1/master_720p.m3u8?&sid=6skm73ev5hwn&app=ed3904e8-737b-4a5e-856a-1b0d7a0a94e2&ce=2
 #EXTINF:-1 tvg-id="TRT1.tr" tvg-name="TRT1" tvg-logo="https://cdn-i.pr.trt.com.tr/trttv/w750/h750/q100/10660277.png" group-title="YEDEK",TRT1
@@ -261,6 +264,8 @@ https://ensonhaber-live.ercdn.net/tv24/tv24.m3u8
 #EXTINF:-1 tvg-id="24" tvg-name="24" tvg-logo="https://yt3.ggpht.com/gWxG3v8R74BMB5GWgX0v9HoFKmKLtTl533CgLfoHcRfRXQPTTcAYgvrnplkwqOmq4GZnmOLkbw" group-title="YEDEK",24
 https://tv.ensonhaber.com/tv24/tv24.m3u8
 
+#EXTINF:-1, --🍀☘️Belgeseller🍀☘️--🌿🌿
+https://videos.pexels.com/video-files/31091800/13285423_1920_1080_30fps.mp4?=.mpg
 #EXTINF:-1, NatGeowild
 https://saran-live.ercdn.net/natgeowild/index.m3u8
 
@@ -269,61 +274,32 @@ https://saran-live.ercdn.net/natgeohd/index.m3u8
 
 #EXTINF:-1, Discovery
 http://109.61.81.147:1935/cdn7/4029/video.m3u8?token=42e57e1e78da0b8220b1ec69bc8384d1
-
 #EXTINF:-1, Love Nature (Rec)
 https://patr0n.denek1544.workers.dev/izle/lovenature.m3u8
-
 #EXTINF:-1, History Channel (Rec)
 https://patr0n.denek1544.workers.dev/izle/historychannel.m3u8
-
 #EXTINF:-1, Viasat History (Rec)
 https://patr0n.denek1544.workers.dev/izle/viasathistory.m3u8
-
 #EXTINF:-1, Military History
 https://fl1.moveonjoy.com/Military_History/index.m3u8
-
 #EXTINF:-1, Nature Time Türkçe
 http://87.121.104.29:145/naturetimetr/stream.m3u8
-
 #EXTINF:-1, Polsat Viasat Nature (1080p)
 https://liveovh010.cda.pl/enc104/polsatviasatnaturehdraw/polsatviasatnaturehdraw.mpd
-
 #EXTINF:-1, SDM Belgesel Keyfi
 https://streams.uzunmuhalefet.com/stream/28ff2020-af46-4155-9546-06e432a8380c.m3u8
 
+#EXTINF:-1, •••SİNEMALAR 🎥 🌟⚡️✨
+https://videos.pexels.com/video-files/31387378/13392869_1080_1920_60fps.mp4?=.mpg
+
 #EXTINF:-1 tvg-id="FX" tvg-name="FX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/330px-FX_International_logo.svg.png" group-title="GENEL",FX
 https://channels01.denek1544.workers.dev/channel/Rlg=
-
 #EXTINF:-1 tvg-id="FX" tvg-name="FX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/FX_Logo_2023.svg/1200px-FX_Logo_2023.svg.png" group-title="GENEL",FX
 https://saran-live.ercdn.net/fx/index.m3u8
-
 #EXTINF:-1, test SDM Çizgi Film Keyfi
 https://streams.uzunmuhalefet.com/stream/c72d3696-1e93-41b9-bada-65faffacbc1b.m3u8
 #EXTINF:-1 tvg-id="SDM Sinema Keyfi" tvg-name="SDM Sinema Keyfi" tvg-logo="https://www.sdmvideo.com/upload/photos/2025/02/Ihhn9QYN6jn2BW5tL8Jz_08_bb9fd41790386666b1c32ce49a3b1b2c_image.png"GENEL",SDM Sinema Keyfi
 https://streams.uzunmuhalefet.com/stream/e3d3b3f7-7276-4768-9673-388e462401e2.m3u8
-#EXTINF:-1, Arkadaşım Hoşgeldin
-https://streams.uzunmuhalefet.com/stream/2beb42d5-d43a-402d-a0f7-803d244e0e9c.m3u8
-#EXTINF:-1, Okyanus Sesleri
-http://87.121.104.29:145/okyanus/stream.m3u8
-#EXTINF:-1, Leyla ile Mecnun 7/24
-http://87.121.104.29:145/leylamecnun/stream.m3u8
-#EXTINF:-1, Leyla ile Mecnun 7/24
-https://streams.uzunmuhalefet.com/stream/2b60b77b-a0df-4eb0-8891-b26b434de5d8.m3u8
-#EXTINF:-1, Çocuklar Duymasın 7/24
-http://87.121.104.29:145/cocuklarduymasin/stream.m3u8
-#EXTINF:-1, Dinlenme Saati :)
-http://87.121.104.29:145/rahatlamaseans/stream.m3u8
-#EXTINF:-1, Zengin Kız Fakir Oğlan 7/24
-http://87.121.104.29:145/zenginkfakiro/stream.m3u8
-#EXTINF:-1, Kurtlar Vadisi Pusu 7/24
-http://87.121.104.29:145/kurtlarvadisipusu/stream.m3u8
-#EXTINF:-1, Kurtlar Vadisi 7/24
-http://87.121.104.29:145/kurtlarvadisi/stream.m3u8
-#EXTINF:-1, Güldür Güldür 7/24
-http://87.121.104.29:145/guldurguldur/stream.m3u8
-#EXTINF:-1, Güldür Güldür 7/24
-https://streams.uzunmuhalefet.com/stream/0fd9c899-f46c-4814-9ee8-da027d09d414.m3u8
-
 #EXTINF:-1 tvg-id="Sinema 1" tvg-name="Sinema 1" tvg-logo="https://e7.pngegg.com/pngimages/879/420/png-clipart-film-video-production-television-graphy-cine-miscellaneous-label-thumbnail.png" group-title="GENEL",Sinema 1
 https://host.onlineradyotv.net:8081/sdmtv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="Sinema 1" tvg-name="Sinema 1" tvg-logo="https://e7.pngegg.com/pngimages/879/420/png-clipart-film-video-production-television-graphy-cine-miscellaneous-label-thumbnail.png" group-title="GENEL",Sinema 1
@@ -336,10 +312,8 @@ https://ip100.radyotelekomtv.com:3784/stream/play.m3u8
 http://cdn4.yayin.com.tr/yansimasinematv/video.m3u8
 #EXTINF:-1 tvg-id="Yansıma Sinema" tvg-name="Yansıma Sinema" tvg-logo="https://r.resimlink.com/9NO6M.png"GENEL",Yansıma Sinema
 https://streams.uzunmuhalefet.com/stream/53925bf1-48ce-46e1-894b-d0fceb2ffea4.m3u8
-
 #EXTINF:-1, Dizi Smart Premium 
 http://plusjustone.xyz:8080/play/live.php?mac=00:2A:01:90:E8:E5&stream=591438&extension=ts
-
 #EXTINF:-1, DIZI SMART MAX HD
 http://plusjustone.xyz:8080/play/live.php?mac=00:2A:01:90:E8:E5&stream=591440&extension=ts
 #EXTINF:-1, EPIC DRAMA
@@ -392,15 +366,41 @@ http://plusjustone.xyz:8080/play/live.php?mac=00:2A:01:90:E8:E5&stream=591428&ex
 http://plusjustone.xyz:8080/play/live.php?mac=00:2A:01:90:E8:E5&stream=591414&extension=ts
 #EXTINF:-1, SINEMA TV HD
 http://plusjustone.xyz:8080/play/live.php?mac=00:2A:01:90:E8:E5&stream=591415&extension=ts
+#EXTINF:-1, Deniz Sinema
+https://live.artidijitalmedya.com/artidijital_denizpostasi/denizpostasi/chunks.m3u8
+#EXTINF:-1, Dizi TDC
+https://streams.uzunmuhalefet.com/stream/3b4817d9-f8d4-439f-a4ae-53f16b72089a.m3u8
+
+#EXTINF:-1, ❄️🦋 7/24 Yayın ❄️🦋
+https://videos.pexels.com/video-files/30602012/13102656_1440_2560_30fps.mp4?=.mpg
+
 #EXTINF:-1, emret komutanım 
 https://streams.uzunmuhalefet.com/stream/c4a994c3-9c80-4fb3-a50c-be40e0b0c972.m3u8
 #EXTINF:-1, sakarya fırat
 https://streams.uzunmuhalefet.com/stream/21f6ba90-50e1-44e8-8423-49a3233d5efb.m3u8
-#EXTINF:-1, Deniz Sinema
-https://live.artidijitalmedya.com/artidijital_denizpostasi/denizpostasi/chunks.m3u8
+#EXTINF:-1, Arkadaşım Hoşgeldin
+https://streams.uzunmuhalefet.com/stream/2beb42d5-d43a-402d-a0f7-803d244e0e9c.m3u8
+#EXTINF:-1, Okyanus Sesleri
+http://87.121.104.29:145/okyanus/stream.m3u8
+#EXTINF:-1, Leyla ile Mecnun 7/24
+http://87.121.104.29:145/leylamecnun/stream.m3u8
+#EXTINF:-1, Leyla ile Mecnun 7/24
+https://streams.uzunmuhalefet.com/stream/2b60b77b-a0df-4eb0-8891-b26b434de5d8.m3u8
+#EXTINF:-1, Çocuklar Duymasın 7/24
+http://87.121.104.29:145/cocuklarduymasin/stream.m3u8
+#EXTINF:-1, Dinlenme Saati :)
+http://87.121.104.29:145/rahatlamaseans/stream.m3u8
+#EXTINF:-1, Zengin Kız Fakir Oğlan 7/24
+http://87.121.104.29:145/zenginkfakiro/stream.m3u8
+#EXTINF:-1, Kurtlar Vadisi Pusu 7/24
+http://87.121.104.29:145/kurtlarvadisipusu/stream.m3u8
+#EXTINF:-1, Kurtlar Vadisi 7/24
+http://87.121.104.29:145/kurtlarvadisi/stream.m3u8
+#EXTINF:-1, Güldür Güldür 7/24
+http://87.121.104.29:145/guldurguldur/stream.m3u8
+#EXTINF:-1, Güldür Güldür 7/24
+https://streams.uzunmuhalefet.com/stream/0fd9c899-f46c-4814-9ee8-da027d09d414.m3u8
 
-#EXTINF:-1, Dizi TDC
-https://streams.uzunmuhalefet.com/stream/3b4817d9-f8d4-439f-a4ae-53f16b72089a.m3u8
 #EXTINF:-1, ŞÖMİNE
 http://iptv.prosto.tv:7000/ch331/tracks-v1a1/mono.m3u8
 #EXTINF:-1, Şömine
@@ -420,16 +420,9 @@ http://iptv.prosto.tv:7000/ch341/video.m3u8
 #EXTINF:-1, relax
 http://iptv.prosto.tv:7000/ch339/video.m3u8
 ##############
-#EXTINF:-1, Filmler 🍿 🎬
+#EXTINF:-1, 🍿🎬 Filmler 🍿🎬
 https://videos.pexels.com/video-files/30602012/13102656_1440_2560_30fps.mp4?=.mpg
-#EXTINF:-1, Filmler 🍿 🎬
-https://filemoon.org/1RgzRBdXzbpB/file
-#EXTINF:-1, Filmler 🍿 🎬
-https://filemoon.org/en/1RgzRBdXzbpB/file
-#EXTINF:-1, Filmler 🍿 🎬
-[URL=https://filemoon.org/en/1RgzRBdXzbpB/file]sil3.mp4[/URL]
-#EXTINF:-1, Filmler 🍿 🎬
-<a href="https://filemoon.org/en/1RgzRBdXzbpB/file">sil3.mp4</a>
+
 #EXTINF:-1, Avatar
 https://filmarsivi.atakann.workers.dev/?ID=https://www.filmmodu.biz/tt0499549-film-izle
 #EXTINF:-1, the lord of the rings 
@@ -514,7 +507,6 @@ https://pixeldrain.com/api/file/njiPhX85?=.mp4
 https://pixeldrain.com/api/file/RA34BkX8?=.mp4
 #EXTINF:-1, Açlık Oyunları 2012 (vidrame)
 https://vidrame.pro/vr/get/df2e21c8/1080.txt?=.mp4
-
 #EXTINF:-1, Açlık Oyunları 2013 (vidrame)
 https://vidrame.pro/vr/get/55d84cad/1080.txt?=.mp4
 #EXTINF:-1, Açlık Oyunları 2014 (PIXEL)
