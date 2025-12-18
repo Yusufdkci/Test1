@@ -645,3 +645,9 @@ https://d1-template.yusufdkci1.workers.dev/?ID=https://www.filmmodu.ws/the-aveng
 
 #EXTINF:-1, Worker Test Video
 https://d1-template.yusufdkci1.workers.dev/?ID=https://devstreaming-cdn.apple.com/videos/streaming/examples/img_bipbop_adv_example_ts/master.m3u8
+
+#EXTINF:-1, Test Stream
+https://d1-template.yusufdkci1.workers.dev/?ID=https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+
+#EXTINF:-1, Test Stream
+https://devstreaming-cdn.apple.com/videos/streaming/examples/img_bipbop_adv_example_ts/master.m3u8
