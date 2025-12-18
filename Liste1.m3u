@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="##🌿GENEL🌿##" tvg-logo="https://i.hizliresim.com/i21k4te.png",##🌿GENEL🌿##
+#EXTINF:-1 tvg-name="🌿GENEL🌿" tvg-logo="https://i.hizliresim.com/i21k4te.png",🌿GENEL🌿
 https://ornek.m3u8
 
 #EXTINF:-1 tvg-id="TRT1.tr" tvg-name="TRT1" tvg-logo="https://cdn-i.pr.trt.com.tr/trttv/w750/h750/q100/10660277.png" group-title="GENEL",TRT1
@@ -267,7 +267,7 @@ https://ensonhaber-live.ercdn.net/tv24/tv24.m3u8
 #EXTINF:-1 tvg-id="24" tvg-name="24" tvg-logo="https://yt3.ggpht.com/gWxG3v8R74BMB5GWgX0v9HoFKmKLtTl533CgLfoHcRfRXQPTTcAYgvrnplkwqOmq4GZnmOLkbw" group-title="YEDEK",24
 https://tv.ensonhaber.com/tv24/tv24.m3u8
 
-#EXTINF:-1 tvg-name="--🍀☘️Belgeseller🍀☘️--" tvg-logo="https://i.hizliresim.com/i21k4te.png",--🍀☘️Belgeseller🍀☘️--
+#EXTINF:-1 tvg-name="🍀☘️Belgeseller🍀☘️" tvg-logo="https://i.hizliresim.com/i21k4te.png",🍀☘️Belgeseller🍀☘️
 https://videos.pexels.com/video-files/31091800/13285423_1920_1080_30fps.mp4?=.mpg
 #EXTINF:-1, NatGeowild
 https://saran-live.ercdn.net/natgeowild/index.m3u8
@@ -292,7 +292,7 @@ https://liveovh010.cda.pl/enc104/polsatviasatnaturehdraw/polsatviasatnaturehdraw
 #EXTINF:-1, SDM Belgesel Keyfi
 https://streams.uzunmuhalefet.com/stream/28ff2020-af46-4155-9546-06e432a8380c.m3u8
 
-#EXTINF:-1 tvg-name="•••SİNEMALAR 🎥 🌟⚡️✨" tvg-logo="https://i.hizliresim.com/i21k4te.png",•••SİNEMALAR 🎥 🌟⚡️✨
+#EXTINF:-1 tvg-name="SİNEMALAR 🎥 🌟⚡️✨" tvg-logo="https://i.hizliresim.com/i21k4te.png",SİNEMALAR 🎥 🌟⚡️✨
 https://videos.pexels.com/video-files/31387378/13392869_1080_1920_60fps.mp4?=.mpg
 
 #EXTINF:-1 tvg-id="FX" tvg-name="FX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/330px-FX_International_logo.svg.png" group-title="GENEL",FX
@@ -374,7 +374,7 @@ https://live.artidijitalmedya.com/artidijital_denizpostasi/denizpostasi/chunks.m
 #EXTINF:-1, Dizi TDC
 https://streams.uzunmuhalefet.com/stream/3b4817d9-f8d4-439f-a4ae-53f16b72089a.m3u8
 
-#EXTINF:-1 tvg-name="❄️🦋 7/24 Yayın ❄️🦋" tvg-logo="https://i.hizliresim.com/i21k4te.png",❄️🦋 7/24 Yayın ❄️🦋
+#EXTINF:-1 tvg-name="❄️🦋7/24 Yayın❄️🦋" tvg-logo="https://i.hizliresim.com/i21k4te.png",❄️🦋7/24 Yayın❄️🦋
 https://videos.pexels.com/video-files/30602012/13102656_1440_2560_30fps.mp4?=.mpg
 
 #EXTINF:-1, emret komutanım 
@@ -423,7 +423,7 @@ http://iptv.prosto.tv:7000/ch341/video.m3u8
 #EXTINF:-1, relax
 http://iptv.prosto.tv:7000/ch339/video.m3u8
 ##############
-#EXTINF:-1 tvg-name="🍿🎬 Filmler 🍿🎬" tvg-logo="https://i.hizliresim.com/i21k4te.png",🍿🎬 Filmler 🍿🎬
+#EXTINF:-1 tvg-name="🍿🎬Filmler🍿🎬" tvg-logo="https://i.hizliresim.com/i21k4te.png",🍿🎬Filmler🍿🎬
 https://videos.pexels.com/video-files/30602012/13102656_1440_2560_30fps.mp4?=.mpg
 
 #EXTINF:-1, Avatar
@@ -631,23 +631,14 @@ https://vidrame.pro/vr/get/ff237c85/1080.txt?=.mp4
 #EXTINF:-1, test Araba Hırsızları (PIXEL)
 https://pixeldrain.com/api/file/r5NveXJ5?=.mp4
 
-#EXTINF:-1, Yenilmezler
-https://d1-template.yusufdkci1.workers.dev/?ID=https://www.filmmodu.biz/yenilmezler1-film-izle
-
-#EXTINF:-1, Yenilmezler
-https://d1-template.yusufdkci1.workers.dev/?ID=https://imgsapi.pro/eDxFljgFxjeFfkA1piZF8hiXn4jePxcZGR0AGR3AnfcXnbkfGNNNN
-
-#EXTINF:-1, Yenilmezler
+#EXTINF:-1, Yenilmezler test
 https://d1-template.yusufdkci1.workers.dev/?ID=movie.okru.workers.dev/?ID=7468776892808
 
-#EXTINF:-1, Yenilmezler
-https://d1-template.yusufdkci1.workers.dev/?ID=https://www.filmmodu.ws/the-avengers-2012-hd-turkce-dublaj-film-izle
+#EXTINF:-1 tvg-name="###deneme###" tvg-logo="https://i.hizliresim.com/i21k4te.png",###deneme### 
+https://ornek.m3u8
 
-#EXTINF:-1, Worker Test Video
-https://d1-template.yusufdkci1.workers.dev/?ID=https://devstreaming-cdn.apple.com/videos/streaming/examples/img_bipbop_adv_example_ts/master.m3u8
+#EXTINF:-1 tvg-name="---deneme---" tvg-logo="https://i.hizliresim.com/i21k4te.png",---deneme---
+https://ornek.m3u8
 
-#EXTINF:-1, Test Stream
-https://d1-template.yusufdkci1.workers.dev/?ID=https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
-
-#EXTINF:-1, Test Stream
-https://devstreaming-cdn.apple.com/videos/streaming/examples/img_bipbop_adv_example_ts/master.m3u8
+#EXTINF:-1 tvg-name="•••deneme•••" tvg-logo="https://i.hizliresim.com/i21k4te.png",•••deneme•••
+https://ornek.m3u8
