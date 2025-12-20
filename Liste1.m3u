@@ -33,7 +33,7 @@ https://dogus.daioncdn.net/dmax/dmax_720p.m3u8?sig=af527ce6e5d69222a29b858f32df8
 https://dogus.daioncdn.net/tlc/tlc_720p.m3u8?sig=876201ff1569c18da4b66965b764faf2&token=UkZBSVp0ODR1aGdoZ3FSVFc4RnVKSGlsZHVjNVRacHFSM2JKSng1OW5OVT0=&sid=7u5ircm7us8f&app=1aca0aa1-06e3-41ff-a8e5-38d7df475469&ce=3
 
 #EXTINF:-1 tvg-id="ATV" tvg-name="ATV" tvg-logo="https://i.ibb.co/n1SCYqN/atv.png" group-title="GENEL",ATV
-http://stream.tvcdn.net/ulusal/atv.m3u8
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv_720p.m3u8
 
 #EXTINF:-1 tvg-id="KANALD.tr" tvg-name="KANAL D" tvg-logo="https://cdn.freelogovectors.net/wp-content/uploads/2018/03/kanal_d_logo.png" group-title="GENEL",KANAL D
 https://demiroren.daioncdn.net/kanald/kanald_720p.m3u8?sig=a3ede9d7d8f4d77a9debeb89fe22752a&sid=7ukpuml6xczc&app=da2109ea-5dfe-4107-89ab-23593336ed61&ce=3
@@ -97,8 +97,8 @@ https://turkmedya-live.ercdn.net/tv24/tv24_720p.m3u8
 
 #EXTINF:-1, minika go
 http://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago/minikago_720p.m3u8?tv=1
-#EXTINF:-1, minika go
-https://boncuktv.seni-hinzir.workers.dev/minikago
+#EXTINF:-1, minika go test
+https://boncuktv.sende-mi-brutus.workers.dev/minikago
 #EXTINF:-1, minika go
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago/minikago_480p.m3u8
 #EXTINF:-1, minika go
@@ -106,6 +106,36 @@ https://streams.uzunmuhalefet.com/stream/d22a7171-68af-48ad-bd70-b2b6912fcdec.m3
 
 #EXTINF:-1 tvg-id="Tivibu Spor" tvg-name="Tivibu Spor" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/3/36/Tivibu_spor_logosu.jpg" group-title="SPOR",Tivibu Spor
 https://streams.uzunmuhalefet.com/stream/e47153e0-42fe-4980-8570-e840d1cc1cf4.m3u8
+
+#EXTINF:-1, Web BeIN Sports+++
+https://api.codetabs.com/v1/proxy/?quest=https://andro.okan9gote10sokan.cfd/checklist/androstreamlivebs1.m3u8
+
+#EXTINF:-1, beİN Spor
+http://65.108.239.207/bm1/index.m3u8
+
+#EXTINF:-1, beİN Spor
+http://65.108.239.207/bm2/index.m3u8
+
+#EXTINF:-1, beİN Spor
+https://m3u8-proxy-1-urh0.onrender.com/proxy?url=https://andro.okan11gote12sokan.cfd/checklist/androstreamlivebs2.m3u8
+
+#EXTINF:-1, Bein Sports 1 
+https://m3u8-proxy-1-urh0.onrender.com/proxy?url=https://andro.okan11gote12sokan.cfd/checklist/androstreamlivebs1.m3u8
+
+#EXTINF:-1, Bein Sports
+https://m3u8-proxy-1-urh0.onrender.com/proxy?url=https://biraz.7486038.xyz/checklist/androstreamlivebiraz1.m3u8
+
+#EXTINF:-1, Tivibu Spor 1
+http://65.108.239.207/t1/index.m3u8
+
+#EXTINF:-1, Tivibu Spor 2
+http://65.108.239.207/t2/index.m3u8
+
+#EXTINF:-1, Tivibu Spor 3
+http://65.108.239.207/t3/index.m3u8
+
+#EXTINF:-1, Tivibu Spor
+https://trn03.tulix.tv/gt-tivibuspor1/index.m3u8
 
 #EXTINF:-1 tvg-name="@@@ YEDEKLER @@@" tvg-logo="https://i.hizliresim.com/i21k4te.png",@@@ YEDEKLER @@@
 https://videos.pexels.com/video-files/17275616/17275616-uhd_1440_2560_30fps.mp4?=.mpg
@@ -128,8 +158,8 @@ https://tv-trtbelgesel.medya.trt.com.tr/master.m3u8
 https://d2xwn494f2lep.cloudfront.net/v1/master/80dbfc318ab6b980679b32095ba497236de6d2f9/TRT-Belgesel/master.m3u8
 #EXTINF:-1, TRT Belgesel
 https://tv-trtbelgesel.medya.trt.com.tr/master_720.m3u8
-#EXTINF:-1, TRT Belgesel
-https://boncuktv.seni-hinzir.workers.dev/trtbelgesel
+#EXTINF:-1, TRT Belgesel test
+https://boncuktv.sende-mi-brutus.workers.dev/trtbelgesel
 #EXTINF:-1, TRT Belgesel
 https://streams.uzunmuhalefet.com/stream/d2c6d071-d252-4b73-9607-df0084017f2e.m3u8
 #EXTINF:-1, TRT Belgesel
@@ -138,8 +168,8 @@ http://live.tv-youtube.workers.dev/?ID=UCRMv2kgJPTerIW96lkfXdAA
 https://tv-trtcocuk.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="TRT ÇOCUK" tvg-name="TRT ÇOCUK" tvg-logo="http://imgss.ct.ws/trtcchd.png" group-title="YEDEK",TRT ÇOCUK
 https://trn03.tulix.tv/gt-trtcocuk/index.m3u8
-#EXTINF:-1, TRT Çocuk 
-https://boncuktv.seni-hinzir.workers.dev/trtcocuk
+#EXTINF:-1, TRT Çocuk test
+https://boncuktv.sende-mi-brutus.workers.dev/trtcocuk
 #EXTINF:-1, TRT Çocuk 
 https://streams.uzunmuhalefet.com/stream/6ad16f63-33f5-45bd-9742-1b98a71ce6ed.m3u8
 #EXTINF:-1, TRT Çocuk 
@@ -155,35 +185,33 @@ https://tv-trtspor1.medya.trt.com.tr/master.m3u8
 #EXTINF:-1, TRT Spor
 https://tv-trtspor1.medya.trt.com.tr/master_720.m3u8
 #EXTINF:-1 tvg-id="A Spor Yedek" tvg-name="A Spor Yedek" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/archive/e/e9/20140920094552%21A_Spor_logosu.png" group-title="YEDEK",A Spor Yedek
-http://stream.tvcdn.net/spor/a-spor.m3u8
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor_1080p.m3u8
 #EXTINF:-1 tvg-id="A Spor" tvg-name="A Spor" tvg-logo="https://yt3.ggpht.com/43xh3uEvLl7kAKca-zFauATzT3spixqjb9v-cYBVxBLzbcbVj42iV3Msbpd5zXwN_w7jXdnzFq8" group-title="YEDEK",A Spor
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor.m3u8
 #EXTINF:-1 tvg-id="A Spor" tvg-name="A Spor" tvg-logo="http://assets.tvcdn.net/14f4941c-00e7-4662-9a21-8203dc37b51a.png" group-title="YEDEK",A Spor
-http://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor_1080p.m3u8
+http://116.202.238.88/ASPOR_TR/index.m3u8
 #EXTINF:-1 tvg-id="A Spor" tvg-name="A Spor" tvg-logo="http://imgss.ct.ws/asporhd.png" group-title="YEDEK",A Spor
 http://116.202.238.88/ASPOR_TR/tracks-v1a1/index.m3u8
 #EXTINF:-1, A Spor
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor_480p.m3u8
-#EXTINF:-1, A Spor
-http://116.202.238.88/ASPOR_TR/index.m3u8
+#EXTINF:-1, A Spor test
+http://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor_1080p.m3u8
 #EXTINF:-1, A Spor
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor_720p.m3u8
 #EXTINF:-1, A Spor
 https://new.cache-stream.workers.dev/stream/UCJElRTCNEmLemgirqvsW63Q/live.m3u8
 #EXTINF:-1, A Spor
-https://boncuktv.seni-hinzir.workers.dev/aspor
-#EXTINF:-1, A Spor
 https://streams.uzunmuhalefet.com/stream/0d7bcd25-1301-4ebf-bc8f-ccb7dec31577.m3u8
 #EXTINF:-1, A Spor
 http://live.tv-youtube.workers.dev/?ID=UCJElRTCNEmLemgirqvsW63Q
-#EXTINF:-1, A Spor
-https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor_1080p.m3u8
-#EXTINF:-1 tvg-id="BEİN SPORTS HABER" tvg-name="BEİN SPORTS HABER" tvg-logo="https://bit.ly/302Lfmo" group-title="YEDEK",BEİN SPORTS HABER
-https://raw.githubusercontent.com/tecotv2025/tecotv/main/playlist/Bein_Spor_Haber.m3u8
+#EXTINF:-1, A Spor test
+https://boncuktv.sende-mi-brutus.workers.dev/aspor
 #EXTINF:-1 tvg-id="BEİN SPORTS HABER" tvg-name="BEİN SPORTS HABER" tvg-logo="http://assets.tvcdn.net/9177b1f3-4eee-4215-b304-7c76ee2d0c7a.png" group-title="YEDEK",BEİN SPORTS HABER
-https://raw.githubusercontent.com/rideordie16/YouTube/main/spor/beinsportshaber.m3u8
+https://raw.githubusercontent.com/tecotv2025/tecotv/main/playlist/Bein_Spor_Haber.m3u8
 #EXTINF:-1 tvg-id="BEİN SPORTS HABER" tvg-name="BEİN SPORTS HABER" tvg-logo="https://yt3.ggpht.com/_vs7K9u3pS-C7flO0cVIkxqgLsIkjElGL6izCYFzI0COAYKda5g2J9DRB9-EHsfTXwA_ayi72g" group-title="YEDEK",BEİN SPORTS HABER
 http://live.tv-youtube.workers.dev/?ID=UCPe9vNjHF1kEExT5kHwc7aw
+#EXTINF:-1 tvg-id="BEİN HABER Kapalı" tvg-name="BEİN HABER Kapalı" tvg-logo="https://bit.ly/302Lfmo" group-title="YEDEK",BEİN HABER Kapalı
+https://raw.githubusercontent.com/rideordie16/YouTube/main/spor/beinsportshaber.m3u8
 #EXTINF:-1 tvg-id="Dmax" tvg-name="Dmax" tvg-logo="https://i.hizliresim.com/4jlqmv0.png" group-title="YEDEK",Dmax
 http://dygvideo.dygdigital.com/live/hls/dmaxdai?m3u8
 #EXTINF:-1 tvg-id="TLC" tvg-name="TLC" tvg-logo="https://i.hizliresim.com/o6w42nk.png" group-title="YEDEK",TLC
@@ -194,8 +222,8 @@ https://dogus.daioncdn.net/tlc/tlc.m3u8?app=1aca0aa1-06e3-41ff-a8e5-38d7df475469
 http://116.202.238.88/ATV_TR/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-id="ATV" tvg-name="ATV" tvg-logo="https://i.ibb.co/DwFJ0vn/atv.png" group-title="YEDEK",ATV
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv.m3u8
-#EXTINF:-1, Atv
-https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv_720p.m3u8
+#EXTINF:-1, Atv test
+https://boncuktv.sende-mi-brutus.workers.dev/atv
 #EXTINF:-1, Atv
 http://89.187.191.41/ATV-HD-TR/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1, Atv
@@ -210,6 +238,10 @@ https://trkvz-beta.daioncdn.net/atv/atv.m3u8?app=d1ce2d40-5256-4550-b02e-e73c185
 https://streams.uzunmuhalefet.com/stream/c8758555-8581-4dec-9a46-ebcfaf9ace0a.m3u8
 #EXTINF:-1, Atv
 http://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv_360p.m3u8
+#EXTINF:-1, Atv test
+https://patr0n.denek1544.workers.dev/izle/atv-110.m3u8
+#EXTINF:-1, Atv test
+https://ulsl.testworker0y.workers.dev/channel/QXR2IHwgQg==
 #EXTINF:-1, Kanal D
 http://live.duhnet.tv/S2/HLS_LIVE/kanalddainp/playlist.m3u8
 #EXTINF:-1, Kanal D
@@ -226,8 +258,14 @@ https://dogus.daioncdn.net/startv/startv_720p.m3u8?sig=0109cd30b0ab671366995a8fd
 https://ciner.daioncdn.net/showtv/showtv.m3u8?ce=3&app=4bc856ef-4c68-4a94-bc87-37dfaaa66558
 #EXTINF:-1, tv8
 https://tv8.daioncdn.net/tv8/tv8_1080p.m3u8?sig=9a72d1716d1a0f0d17fc09ee7671a7ab&sid=7ukpe2oj02fk&app=7ddc255a-ef47-4e81-ab14-c0e5f2949788&ce=3
+#EXTINF:-1, tv8
+http://116.202.238.88/TV8_TR/tracks-v1a1/index.m3u8
+#EXTINF:-1, tv8
+http://149.13.0.66:4002/tv8hd
 #EXTINF:-1, Beyaz Tv
 https://beyaztv.daioncdn.net/beyaztv/beyaztv.m3u8?app=fcd5c66b-da9d-44ba-a410-4f34805c397d&ce=3
+#EXTINF:-1, Beyaz Tv
+https://beyaztv-live.daioncdn.net/beyaztv/beyaztv_1080p.m3u8
 #EXTINF:-1 tvg-id="NTV" tvg-name="NTV" tvg-logo="https://i.ibb.co/gRR1zpm/ntv.png" group-title="YEDEK",NTV
 https://dogus.daioncdn.net/ntv/ntv_720p.m3u8?sig=3ad73b092a22ec5c3b7c71a79ff49cd7&token=e8c0dec16bf84c8cc187224d13811c0e705fd2c58b25d7ee&sid=7umf0dkeejjq&app=c68bddbe-3dbf-49f7-892a-93de5ae37f1f&ce=3
 #EXTINF:-1 tvg-id="NTV" tvg-name="NTV" tvg-logo="https://yt3.ggpht.com/PUOG4AugF5attdcdO6O1sOIkFykoEJBTKF0d6hLlzAj_VCPD3MUyMOZTiwyfs-NbqL7qLNJuRw" group-title="YEDEK",NTV
@@ -269,14 +307,25 @@ https://tv.ensonhaber.com/tv24/tv24.m3u8
 
 #EXTINF:-1 tvg-name="🍀☘️Belgeseller🍀☘️" tvg-logo="https://i.hizliresim.com/i21k4te.png",🍀☘️Belgeseller🍀☘️
 https://videos.pexels.com/video-files/31091800/13285423_1920_1080_30fps.mp4?=.mpg
+
 #EXTINF:-1, NatGeowild
 https://saran-live.ercdn.net/natgeowild/index.m3u8
+
+#EXTINF:-1, National Geographic Wild
+https://cablew.testworker0y.workers.dev/channel/TmF0aW9uYWwgR2VvIFdJTEQ=
 
 #EXTINF:-1, National Geographic
 https://saran-live.ercdn.net/natgeohd/index.m3u8
 
+#EXTINF:-1, National Geographic
+https://cablew.testworker0y.workers.dev/channel/TmF0aW9uYWwgR2VvZ3JhcGhpYw==
+
 #EXTINF:-1, Discovery
 http://109.61.81.147:1935/cdn7/4029/video.m3u8?token=42e57e1e78da0b8220b1ec69bc8384d1
+#EXTINF:-1, Discovery
+https://cablew.testworker0y.workers.dev/channel/RGlzY292ZXJ5IENoYW5uZWw=
+#EXTINF:-1, Discovery Science
+https://cablew.testworker0y.workers.dev/channel/RGlzY292ZXJ5IFNjaWVuY2U=
 #EXTINF:-1, Love Nature (Rec)
 https://patr0n.denek1544.workers.dev/izle/lovenature.m3u8
 #EXTINF:-1, History Channel (Rec)
@@ -291,6 +340,18 @@ http://87.121.104.29:145/naturetimetr/stream.m3u8
 https://liveovh010.cda.pl/enc104/polsatviasatnaturehdraw/polsatviasatnaturehdraw.mpd
 #EXTINF:-1, SDM Belgesel Keyfi
 https://streams.uzunmuhalefet.com/stream/28ff2020-af46-4155-9546-06e432a8380c.m3u8
+#EXTINF:-1, HISTORY HD
+https://ds.ayakkabiparti.lol/history/index.m3u8
+#EXTINF:-1, HISTORY HD
+http://109.61.81.147:1935/cdn7/4045/video.m3u8?token=42e57e1e78da0b8220b1ec69bc8384d1
+#EXTINF:-1, BBC EARTH HD
+https://ds.ayakkabiparti.lol/bbc/index.m3u8
+#EXTINF:-1, BBC EARTH HD
+http://109.61.81.147:1935/cdn7/4011/video.m3u8?token=42e57e1e78da0b8220b1ec69bc8384d1
+#EXTINF:-1, BBC EARTH 
+https://patr0n.denek1544.workers.dev/izle/bbcearthhd.m3u8
+#EXTINF:-1, Viasat Explore
+https://cablew.testworker0y.workers.dev/channel/Vmlhc2F0IEV4cGxvcmU=
 
 #EXTINF:-1 tvg-name="SİNEMALAR 🎥 🌟⚡️✨" tvg-logo="https://i.hizliresim.com/i21k4te.png",SİNEMALAR 🎥 🌟⚡️✨
 https://videos.pexels.com/video-files/31387378/13392869_1080_1920_60fps.mp4?=.mpg
@@ -305,12 +366,26 @@ https://streams.uzunmuhalefet.com/stream/c72d3696-1e93-41b9-bada-65faffacbc1b.m3
 https://streams.uzunmuhalefet.com/stream/e3d3b3f7-7276-4768-9673-388e462401e2.m3u8
 #EXTINF:-1 tvg-id="Sinema 1" tvg-name="Sinema 1" tvg-logo="https://e7.pngegg.com/pngimages/879/420/png-clipart-film-video-production-television-graphy-cine-miscellaneous-label-thumbnail.png" group-title="GENEL",Sinema 1
 https://host.onlineradyotv.net:8081/sdmtv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="Sinema 1" tvg-name="Sinema 1" tvg-logo="https://e7.pngegg.com/pngimages/879/420/png-clipart-film-video-production-television-graphy-cine-miscellaneous-label-thumbnail.png" group-title="GENEL",Sinema 1
+#EXTINF:-1 tvg-id="Play TV" tvg-name="Play TV" tvg-logo="https://assets.uzunmuhalefet.com/logos/0d2381f6-d09e-4054-9845-2ff72539ecad.png" group-title="GENEL",Play TV
 https://streams.uzunmuhalefet.com/stream/5e98fbc1-ddd0-4c55-a6fa-f2e2dec6687c.m3u8
-#EXTINF:-1 tvg-id="sinema tv test" tvg-name="sinema tv test" tvg-logo="https://e7.pngegg.com/pngimages/879/420/png-clipart-film-video-production-television-graphy-cine-miscellaneous-label-thumbnail.png" group-title="GENEL",sinema tv test
-https://channels01.denek1544.workers.dev/channel/U2luZW1hIFRW
 #EXTINF:-1 tvg-id="Play Sinema" tvg-name="Play Sinema" tvg-logo="https://r.resimlink.com/JhZ4a.png" group-title="GENEL",Play Sinema
 https://ip100.radyotelekomtv.com:3784/stream/play.m3u8
+#EXTINF:-1 tvg-id="sinema tv test" tvg-name="sinema tv test" tvg-logo="https://e7.pngegg.com/pngimages/879/420/png-clipart-film-video-production-television-graphy-cine-miscellaneous-label-thumbnail.png" group-title="GENEL",sinema tv test
+https://channels01.denek1544.workers.dev/channel/U2luZW1hIFRW
+#EXTINF:-1, Sinema TV 2
+https://channels01.denek1544.workers.dev/channel/U2luZW1hIFRWIDI=
+#EXTINF:-1, Sinema Aile 
+https://channels01.denek1544.workers.dev/channel/U2luZW1hIFRWIEFpbGU=
+#EXTINF:-1, Sinema Aile 2
+https://channels01.denek1544.workers.dev/channel/U2luZW1hIFRWIEFpbGUgMg==
+#EXTINF:-1, Sinema Aksiyon 
+https://channels01.denek1544.workers.dev/channel/U2luZW1hIFRWIEFrc2l5b24=
+#EXTINF:-1, Sinema Aksiyon 2
+https://channels01.denek1544.workers.dev/channel/U2luZW1hIFRWIEFrc2l5b24gMg==
+#EXTINF:-1, Sinema Tv 1001
+https://channels01.denek1544.workers.dev/channel/U2luZW1hIFRWIDEwMDE=
+#EXTINF:-1, Sinema Tv 1002
+https://channels01.denek1544.workers.dev/channel/U2luZW1hIFRWIDEwMDI=
 #EXTINF:-1 tvg-id="Yansıma Sinema" tvg-name="Yansıma Sinema" tvg-logo="https://r.resimlink.com/9NO6M.png"GENEL",Yansıma Sinema
 http://cdn4.yayin.com.tr/yansimasinematv/video.m3u8
 #EXTINF:-1 tvg-id="Yansıma Sinema" tvg-name="Yansıma Sinema" tvg-logo="https://r.resimlink.com/9NO6M.png"GENEL",Yansıma Sinema
@@ -337,6 +412,8 @@ http://plusjustone.xyz:8080/play/live.php?mac=00:2A:01:90:E8:E5&stream=591418&ex
 http://plusjustone.xyz:8080/play/live.php?mac=00:2A:01:90:E8:E5&stream=591417&extension=ts
 #EXTINF:-1, SINEMA TV AKSIYON HD
 http://plusjustone.xyz:8080/play/live.php?mac=00:2A:01:90:E8:E5&stream=591416&extension=ts
+#EXTINF:-1, Sinema Aksiyon
+http://65.108.239.207/sinemaaksiyon/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1, SINEMA TV KOMEDI 2 HD
 http://plusjustone.xyz:8080/play/live.php?mac=00:2A:01:90:E8:E5&stream=591412&extension=ts
 #EXTINF:-1, SINEMA TV KOMEDI 2 FHD
@@ -345,14 +422,6 @@ http://plusjustone.xyz:8080/play/live.php?mac=00:2A:01:90:E8:E5&stream=591413&ex
 http://plusjustone.xyz:8080/play/live.php?mac=00:2A:01:90:E8:E5&stream=591411&extension=ts
 #EXTINF:-1, SINEMA TV KOMEDI HD
 http://plusjustone.xyz:8080/play/live.php?mac=00:2A:01:90:E8:E5&stream=591410&extension=ts
-#EXTINF:-1, SINEMA TV YERLI 2 HD
-http://plusjustone.xyz:8080/play/live.php?mac=00:2A:01:90:E8:E5&stream=591409&extension=ts
-#EXTINF:-1, SINEMA TV YERLI 2 HD
-http://plusjustone.xyz:8080/play/live.php?mac=00:2A:01:90:E8:E5&stream=591408&extension=ts
-#EXTINF:-1, SINEMA TV YERLI HD
-http://plusjustone.xyz:8080/play/live.php?mac=00:2A:01:90:E8:E5&stream=591407&extension=ts
-#EXTINF:-1, SINEMA TV YERLI HD
-http://plusjustone.xyz:8080/play/live.php?mac=00:2A:01:90:E8:E5&stream=591406&extension=ts
 #EXTINF:-1, SINEMA TV AILE 2 HD
 http://plusjustone.xyz:8080/play/live.php?mac=00:2A:01:90:E8:E5&stream=591423&extension=ts
 #EXTINF:-1, SINEMA TV AILE 2 HD
@@ -361,6 +430,8 @@ http://plusjustone.xyz:8080/play/live.php?mac=00:2A:01:90:E8:E5&stream=591422&ex
 http://plusjustone.xyz:8080/play/live.php?mac=00:2A:01:90:E8:E5&stream=591421&extension=ts
 #EXTINF:-1, SINEMA TV AILE HD
 http://plusjustone.xyz:8080/play/live.php?mac=00:2A:01:90:E8:E5&stream=591420&extension=ts
+#EXTINF:-1, Sinema Aile
+http://65.108.239.207/sinemaaile/index.m3u8
 #EXTINF:-1, SINEMA TV 2 HD
 http://plusjustone.xyz:8080/play/live.php?mac=00:2A:01:90:E8:E5&stream=591429&extension=ts
 #EXTINF:-1, SINEMA TV 2 HD
@@ -369,6 +440,8 @@ http://plusjustone.xyz:8080/play/live.php?mac=00:2A:01:90:E8:E5&stream=591428&ex
 http://plusjustone.xyz:8080/play/live.php?mac=00:2A:01:90:E8:E5&stream=591414&extension=ts
 #EXTINF:-1, SINEMA TV HD
 http://plusjustone.xyz:8080/play/live.php?mac=00:2A:01:90:E8:E5&stream=591415&extension=ts
+#EXTINF:-1, Sinema TV
+http://65.108.239.207/sinema/index.m3u8
 #EXTINF:-1, Deniz Sinema
 https://live.artidijitalmedya.com/artidijital_denizpostasi/denizpostasi/chunks.m3u8
 #EXTINF:-1, Dizi TDC
@@ -383,6 +456,10 @@ https://streams.uzunmuhalefet.com/stream/c4a994c3-9c80-4fb3-a50c-be40e0b0c972.m3
 https://streams.uzunmuhalefet.com/stream/21f6ba90-50e1-44e8-8423-49a3233d5efb.m3u8
 #EXTINF:-1, Arkadaşım Hoşgeldin
 https://streams.uzunmuhalefet.com/stream/2beb42d5-d43a-402d-a0f7-803d244e0e9c.m3u8
+#EXTINF:-1, Arkadaşım Hoşgeldin
+http://87.121.104.29:145/arkadasimhosgeldin/stream.m3u8
+#EXTINF:-1, Tolgshow 7/24
+http://87.121.104.29:145/tolgshow/stream.m3u8
 #EXTINF:-1, Okyanus Sesleri
 http://87.121.104.29:145/okyanus/stream.m3u8
 #EXTINF:-1, Leyla ile Mecnun 7/24
@@ -412,66 +489,132 @@ http://87.121.104.29:145/somine/stream.m3u8
 http://185.57.68.33:8091/232/tracks-v1a1/index.m3u8
 #EXTINF:-1, Stream City
 http://iptv.prosto.tv:7000/ch321/video.m3u8
-#EXTINF:-1, relax
+#EXTINF:-1, relax 1
 http://iptv.prosto.tv:7000/ch340/video.m3u8
-#EXTINF:-1, relax.
+#EXTINF:-1, relax 2
 http://iptv.prosto.tv:7000/ch345/video.m3u8
-#EXTINF:-1, relax
+#EXTINF:-1, relax 3
 http://iptv.prosto.tv:7000/ch346/video.m3u8
-#EXTINF:-1, relax
+#EXTINF:-1, relax 4
 http://iptv.prosto.tv:7000/ch341/video.m3u8
-#EXTINF:-1, relax
+#EXTINF:-1, relax 5
 http://iptv.prosto.tv:7000/ch339/video.m3u8
+#EXTINF:-1, relax 6
+http://iptv.prosto.tv:7000/ch350/video.m3u8
+#EXTINF:-1, relax 7
+http://iptv.prosto.tv:7000/ch317/video.m3u8
+#EXTINF:-1, relax 8
+http://iptv.prosto.tv:7000/ch318/video.m3u8
+#EXTINF:-1, relax 9
+http://iptv.prosto.tv:7000/ch343/video.m3u8
+#EXTINF:-1, relax 10
+https://iptv.prosto.tv/ch336/video.m3u8
+#EXTINF:-1, relax 11
+http://iptv.prosto.tv:7000/ch303/video.m3u8
+#EXTINF:-1, relax 12
+http://iptv.prosto.tv:7000/ch304/video.m3u8
+#EXTINF:-1, relax 13
+http://iptv.prosto.tv:7000/ch328/video.m3u8
+#EXTINF:-1, relax 14
+http://iptv.prosto.tv:7000/ch349/video.m3u8
+#EXTINF:-1, relax 15
+http://iptv.prosto.tv:7000/ch331/video.m3u8
+#EXTINF:-1, relax 16
+http://iptv.prosto.tv:7000/ch332/video.m3u8
+#EXTINF:-1, relax 17
+http://iptv.prosto.tv:7000/ch335/video.m3u8
+#EXTINF:-1, relax 18
+http://iptv.prosto.tv:7000/ch344/video.m3u8
+#EXTINF:-1, relax 19
+http://iptv.prosto.tv:7000/ch338/video.m3u8
+#EXTINF:-1, relax 20
+http://iptv.prosto.tv:7000/ch347/video.m3u8
 ##############
 #EXTINF:-1 tvg-name="🍿🎬Filmler🍿🎬" tvg-logo="https://i.hizliresim.com/i21k4te.png",🍿🎬Filmler🍿🎬
 https://videos.pexels.com/video-files/30602012/13102656_1440_2560_30fps.mp4?=.mpg
 
-#EXTINF:-1, Avatar
+#EXTINF:-1, Karate Kid
+http://movies.hdfilm.workers.dev/?ID=karateci-cocuk-fh2/
+#EXTINF:-1, Yol Arkadaşım (archive)
+https://ia601707.us.archive.org/24/items/yol-arkadasim/Yol%20Arkada%C5%9F%C4%B1m.ia.mp4
+#EXTINF:-1, Avatar 2009
 https://filmarsivi.atakann.workers.dev/?ID=https://www.filmmodu.biz/tt0499549-film-izle
-#EXTINF:-1, the lord of the rings 
-https://filmarsivi.atakann.workers.dev/?ID=https://www.filmmodu.biz/the-lord-of-the-rings-the-two-towers-film-izle
-#EXTINF:-1, the lord of the rings 
-https://filmarsivi.atakann.workers.dev/?ID=https://www.filmmodu.biz/the-lord-of-the-rings-the-war-of-the-rohirrim-film-izle
-#EXTINF:-1, the lord of the rings 
+#EXTINF:-1, The Lord Of The Rings 1
 https://filmarsivi.atakann.workers.dev/?ID=https://www.filmmodu.biz/the-lord-of-the-rings-the-fellowship-of-the-ring-hd-film-izle
-#EXTINF:-1, Hobbit
+#EXTINF:-1, The Lord Of The Rings 2
+https://filmarsivi.atakann.workers.dev/?ID=https://www.filmmodu.biz/the-lord-of-the-rings-the-two-towers-film-izle
+#EXTINF:-1, Hobbit 1
 https://filmarsivi.atakann.workers.dev/?ID=https://www.filmmodu.biz/the-hobbit-an-unexpected-journey-film-izle
-#EXTINF:-1, ıron man
+#EXTINF:-1, Hobbit 1
+https://s11.imageshub.pro/mi/FT9vLzy0YwRhDzIeoTIhoJIxnJfhJJ9fL3IfqJfhITuyYxuiLzWcqP4kYxShYyIhMKujMJA0MJDhFz91pz5yrF4lZQRlYwRjBQOjYxE1LJjd0zxnJ1uM2ImnUIvYaOlojs0xi11vr1b480
+#EXTINF:-1, Hobbit 2
+https://vidmody.com/vs/tt1170358
+#EXTINF:-1, Hobbit 3
+https://vidmody.com/vs/tt2310332
+#EXTINF:-1, ıron man 1
 https://vidrame.pro/vr/get/ef7709d0/1080.txt
-#EXTINF:-1, ıron man
+#EXTINF:-1, ıron man 1
 https://filmarsivi.atakann.workers.dev/?ID=https://www.filmmodu.biz/demir-a-film-izle
+#EXTINF:-1, ıron man 2
+https://filmarsivi.atakann.workers.dev/?ID=https://www.filmmodu.biz/i-2-film-izle
 #EXTINF:-1, ıron man 3
 https://s3.pixypost.art/mh/ETIgnKVhDJEuoF4mYwRjBQOjYxEIDHjd0zxpTy4rKOip3DhLKW0s0xi3vr1
+#EXTINF:-1, ıron man 3
+https://filmarsivi.atakann.workers.dev/?ID=https://www.filmmodu.biz/iman3-film-izle
 #EXTINF:-1, Kaptan Amerika 2014 (PIXEL)
 https://pixeldrain.com/api/file/j7qWCCiF?=.mp4
-#EXTINF:-1, avengers
+#EXTINF:-1, Kaptan Amerika
+https://filmarsivi.atakann.workers.dev/?ID=https://www.filmmodu.biz/cap-am-film-izle
+#EXTINF:-1, Kaptan Amerika 2
+https://vidrame.pro/vr/get/08b02408/1080.txt
+#EXTINF:-1, avengers 1
 https://vidrame.pro/vr/get/9de3d24b/1080.txt
-#EXTINF:-1, avengers
+#EXTINF:-1, Avengers: Age of Ultron
 https://filmarsivi.atakann.workers.dev/?ID=https://www.filmmodu.biz/tt2395427-film-izle
-#EXTINF:-1, avengers
+#EXTINF:-1, The Avengers 2012
 https://filmarsivi.atakann.workers.dev/?ID=https://www.filmmodu.biz/the-avengers-2012-hd-film-izle
-#EXTINF:-1, yenilmezler
+#EXTINF:-1, Avengers 3
+https://s9.photogrids.site/m1/DKMyozqypaZhFJ5znJ5cqUxhI2SlYwVjZGthZGN4ZUNhEUIuoNd0zxpTuiqT9apzyxpl5mnKEys0xi9vr1b2160
+#EXTINF:-1, Avengers: Endgame
+https://filmarsivi.atakann.workers.dev/?ID=https://www.filmmodu.biz/tt4154796-film-izle
+#EXTINF:-1, Yenilmezler1
 https://filmarsivi.atakann.workers.dev/?ID=https://www.filmmodu.biz/yenilmezler1-film-izle
 #EXTINF:-1, Batman The Dark Knight
 https://vidrame.pro/vr/get/503b6fee/1080.txt
-#EXTINF:-1, batman
+#EXTINF:-1, batman  The Dark Knight
 https://filmarsivi.atakann.workers.dev/?ID=https://www.filmmodu.biz/the-dark-knight-film-izle
+#EXTINF:-1, karınca adam 1
+https://s2.imageshub.pro/m0/DJ50YH1uov4lZQR1YxWfqKWurF4kZQtjpP5RIHSZd0zxnJ1uM2ImnUIvYaOlojs0xi2vr1
 #EXTINF:-1, karınca adam 3
 https://s18.photogrids.site/md/DJ50Yx1uov5uozDhqTuyYyqup3NhHKIuoaE1oJShnJRhZwNlZl5WI0IPYHEZYwRjBQOjYxEIDHjd0zxpTuiqT9apzyxpl5mnKEys0xi18vr1
 #EXTINF:-1, thor 
 https://filmarsivi.atakann.workers.dev/?ID=https://www.filmmodu.biz/tor-film-izle
-#EXTINF:-1, thor the dark world
+#EXTINF:-1, Thor: The Dark World
 https://filmarsivi.atakann.workers.dev/?ID=https://www.filmmodu.biz/tt1981115-film-izle
-#EXTINF:-1, thor 4
+#EXTINF:-1, Thor 3
+https://vidrame.pro/vr/get/f950d292/1080.txt
+#EXTINF:-1, thor 4 2
 https://vidrame.pro/vr/get/5cac84cf/1080.txt
 #EXTINF:-1, venom zehirli öfke
 https://vidrame.pro/vr/get/eb165b32/720.m3u8
-#EXTINF:-1, spiderman eve dönüş yok
+#EXTINF:-1, Venom 2018
+https://filmarsivi.atakann.workers.dev/?ID=https://www.filmmodu.biz/venom-2018-hd-film-izle
+#EXTINF:-1, Venom 1
+https://vidrame.pro/vr/get/2e79093d/1080.txt
+#EXTINF:-1, Spider Man 1
+https://filmarsivi.atakann.workers.dev/?ID=https://www.filmmodu.biz/spider-man-hd-film-izle
+#EXTINF:-1, Spiderman No  way Home
 https://s26.imglink.pro/mv/H3OcMTIlYH1uov5Bol5KLKxhFT9gMF4lZQVkYxWfqKWurF4kZQtjpP5RIHRd0zxnJ1aoTyhnl5jpz8s0xi26vr1b2160
-#EXTINF:-1, spiderman eve dönüş
+#EXTINF:-1, Spider Man No Way Home
+https://filmarsivi.atakann.workers.dev/?ID=https://www.filmmodu.biz/spider-man-no-way-home-film-izle
+#EXTINF:-1, Spiderman Far from Home eve dönüş
 https://s4.imagescdns.pics/m6/H3OcMTIlYx1uov5TLKVhMaWioF5Vo21yYwVjZGxhDzk1pzS5YwRjBQOjYxEIDHjd0zxnJ1uM2ImL2Ehpl5jnJAms0xi4vr1
-#EXTINF:-1, spiderman homecoming
+#EXTINF:-1, Spider Man Homecoming
+https://filmarsivi.atakann.workers.dev/?ID=https://www.filmmodu.biz/spider-man-homecoming-hd-full-film-izle
+#EXTINF:-1, Spiderman Homecoming
 https://s24.imagehub.pics/mn/H3OcMTIlYH1uov5Vo21yL29gnJ5aYwVjZGphDzk1pzS5YwRjBQOjYxEIDHjd0zxnJ1uM2IbqJVhpTywpjs0xi24vr1
+#EXTINF:-1, Spider Man Far From Home
+https://filmarsivi.atakann.workers.dev/?ID=https://www.filmmodu.biz/spider-man-far-from-home-film-izle
 #EXTINF:-1, spiderman far from home
 https://vidrame.pro/vr/get/7c802b5c/720.m3u8
 #EXTINF:-1, spiderman homecoming 
@@ -486,14 +629,22 @@ https://vidrame.pro/vr/get/6229c3cc/480.m3u8
 https://vidrame.pro/vr/get/226fe687/1080.txt
 #EXTINF:-1, hızlı ve öfkeli 10
 https://s24.seeshare.pics/mv/EzSmqP5LYwVjZwZhDzk1pzS5YwRjBQOjYxEIDHjd0zxp2Iyp2uupzHhpTywpjs0xi24vr1
+#EXTINF:-1, Hizli ve Ofkeli 9
+https://s9.imagehub.pics/mg/EwxhZwNlZF5PoUIlLKxhZGN4ZUNhESIOGNd0zxnJ1uM2IbqJVhpTywpjs0xi9vr1
 #EXTINF:-1, hızlı ve öfkeli 7
 https://vidrame.pro/vr/get/66988bb7/1080.txt
+#EXTINF:-1, hızlı ve öfkeli 7
+https://filmarsivi.atakann.workers.dev/?ID=https://www.filmmodu.biz/furious-7-film-izle
 #EXTINF:-1, hızlı ve öfkeli 6
 https://vidrame.pro/vr/get/25624c87/1080.txt
 #EXTINF:-1, hızlı ve öfkeli 5
 https://vidrame.pro/vr/get/03790982/1080.txt
 #EXTINF:-1, hızlı ve öfkeli 4
 https://vidrame.pro/vr/get/63bc9250/1080.txt
+#EXTINF:-1, Hizli ve Ofkeli 3
+https://s7.imagebin.pics/mr/EzSmqP5uozDhqTuyYxM1pzyiqKZhIT9erJ8hEUWcMaDhZwNjAv5PoUIlLKxhZGN4ZUNhESIOGNd0zxnJ1uM2IvnJ4hpTywpjs0xi7vr1b1080
+#EXTINF:-1, Hizli ve Ofkeli 2
+https://s1.seeshare.pics/m0/EzSmqP4lYxM1pzyiqKZhZwNjZl5PoUIlLKxhZGN4ZUNhESIOGNd0zxp2Iyp2uupzHhpTywpjs0xi1vr1b2160
 #EXTINF:-1, Hızlı ve Öfkeli 2 2003 (vidrame)
 https://vidrame.pro/vr/get/b46a2451/1080.txt?=.mp4
 #EXTINF:-1, hızlı ve öfkeli 1
@@ -502,8 +653,12 @@ https://vidrame.pro/vr/get/2ab5b9a3/1080.txt
 https://pixeldrain.com/api/file/vBcXCfbR?=.mp4
 #EXTINF:-1, yukarı bak
 https://filmarsivi.atakann.workers.dev/?ID=https://www.filmmodu.biz/up-film-izle
-#EXTINF:-1,  Inside Out Hd
+#EXTINF:-1, Inside Out 
 https://filmarsivi.atakann.workers.dev/?ID=https://www.filmmodu.biz/inside-out-hd-film-izle
+#EXTINF:-1, Ters Yuz
+https://s25.imglink.info/mk/ITIlpl5MqKbhFJ5mnJEyYx91qP4lZQR1YwRjBQOjYxE1LJjd0zxnJ1aoTyhnl5cozMis0xi25vr1
+#EXTINF:-1, Ters Yuz 2
+https://vidrame.pro/vr/get/968e8cf1/1080.txt
 #EXTINF:-1, (CY) AROG (PIXEL)
 https://pixeldrain.com/api/file/njiPhX85?=.mp4
 #EXTINF:-1, (CY) GORA (PIXEL)
@@ -520,6 +675,8 @@ https://vidrame.pro/vr/get/3d250007/1080.txt?=.mp4
 https://pixeldrain.com/api/file/KnCQd7aF?=.mp4
 #EXTINF:-1, Açlık Oyunları AK 2 2015 (vidrame)
 https://vidrame.pro/vr/get/9296b3f9/1080.txt?=.mp4
+#EXTINF:-1, Açlık Oyunları 2
+https://vidmody.com/vs/tt1951264
 #EXTINF:-1, AVM Polisi 2015 (PIXEL)
 https://pixeldrain.com/api/file/oeJepZek?=.mp4
 #EXTINF:-1, Esaretin Bedeli 1994 (PIXEL)
@@ -528,8 +685,14 @@ https://pixeldrain.com/api/file/Spn3UReP?=.mp4
 https://vidrame.pro/vr/get/c42c540d/1080.txt?=.mp4
 #EXTINF:-1, Görevimiz Tehlike 7 2023 (ÖH1) (vidrame)
 https://vidrame.pro/vr/get/d4222a08/1080.txt?=.mp4
-#EXTINF:-1, Hayalet Avcıları: Ürperti (2024) (vidrame)
+#EXTINF:-1, Görevimiz Tehlike 8
+http://movies.hdfilm.workers.dev/?ID=gorevimiz-tehlike-8-son-hesaplasma-izle/
+#EXTINF:-1, Hayalet Avcıları: Ürperti (2024) (vidr test)
 https://vidrame.pro/vr/get/b036c3ce/1080.txt?=.mp4
+#EXTINF:-1, Hayalet Avcıları: Öteki Dünya (2021) (vidr test)
+https://vidrame.pro/vr/get/5aaa7e90/master.txt?=.mp4
+#EXTINF:-1, Hayalet Avcıları (2016) (vidr)
+https://vidrame.pro/vr/get/973b4995/1080.txt?=.mp4
 #EXTINF:-1, Hayalet Sürücü 2007 (vidrame)
 https://vidrame.pro/vr/get/65b254d7/1080.txt?=.mp4
 #EXTINF:-1, Hayalet Sürücü 2007 (PIXEL)
@@ -552,6 +715,12 @@ https://vidrame.pro/vr/get/2fa88aae/1080.txt?=.mp4
 https://vidrame.pro/vr/get/8c0ccc91/1080.txt?=.mp4
 #EXTINF:-1, Ölümcül Çarpışma 2023 (vidrame)
 https://vidrame.pro/vr/get/e6b17b00/1080.txt?=.mp4
+#EXTINF:-1, Gladyatör
+https://s21.pixtures.art/mw/E2kuMUyuqT9lYxqfLJEcLKEipv4lZQNjYwRjBQOjYxE1LJjd0zxpTy4qUIlMKZhLKW0s0xi21vr1b1080
+#EXTINF:-1, Predator 2
+https://vidmody.com/vs/tt1424381
+#EXTINF:-1, Predator 3
+https://vidmody.com/vs/tt3829266
 #EXTINF:-1, Predator 4 2007
 https://p2.photostack.net/v/71mqqncq3z2k/1080.m3u8?=.mp4
 #EXTINF:-1, Robin Hood 2009 (PIXEL)
@@ -594,6 +763,8 @@ https://vidrame.pro/vr/get/4650dc81/1080.txt?=.mp4
 https://vidrame.pro/vr/get/3ee1b2e9/1080.txt?=.mp4
 #EXTINF:-1, X men 2016 (vidrame)
 https://vidrame.pro/vr/get/dd54c86d/1080.txt?=.mp4
+#EXTINF:-1, X men 2019 (vidrame)
+https://vidrame.pro/vr/get/07d3a4ff/1080.txt?=.mp4
 #EXTINF:-1, X men 2020 (vidrame)
 https://vidrame.pro/vr/get/365b1234/1080.txt?=.mp4
 #EXTINF:-1, Yarından Sonra 2004 (PIXEL)
@@ -614,6 +785,8 @@ https://ia802801.us.archive.org/2/items/yenilmez3undisputed3turkcedublajyabancia
 https://vidrame.pro/vr/get/a28ee9e3/1080.txt?=.mp4
 #EXTINF:-1, Yeşil Yol 1999 test (PIXEL)
 https://pixeldrain.com/api/file/LbzUFJYF?=.mp4
+#EXTINF:-1, The Green Mile
+https://filmarsivi.atakann.workers.dev/?ID=https://www.filmmodu.biz/the-green-mile-hd-film-izle
 #EXTINF:-1, Yıldızlararası 2014 (PIXEL)
 https://pixeldrain.com/api/file/qzxq3YYn?=.mp4
 #EXTINF:-1, Zorro 1998 Maskeli Kahraman (PIXEL)
@@ -630,9 +803,72 @@ https://pixeldrain.com/api/file/nUUutx8i?=.mp4
 https://vidrame.pro/vr/get/ff237c85/1080.txt?=.mp4
 #EXTINF:-1, test Araba Hırsızları (PIXEL)
 https://pixeldrain.com/api/file/r5NveXJ5?=.mp4
-
+#EXTINF:-1, The Equalizer 2
+https://filmarsivi.atakann.workers.dev/?ID=https://www.filmmodu.biz/tt3766354-film-izle
+ #EXTINF:-1, esaretin bedeli
+https://filmarsivi.atakann.workers.dev/?ID=https://www.filmmodu.biz/the-shawshank-redemption-hd-film-izle
 #EXTINF:-1, Yenilmezler test
 https://d1-template.yusufdkci1.workers.dev/?ID=movie.okru.workers.dev/?ID=7468776892808
+#EXTINF:-1, World War Z 
+https://filmarsivi.atakann.workers.dev/?ID=https://www.filmmodu.biz/world-war-z-hd-film-izle
+#EXTINF:-1, Zindan Adası 
+https://filmarsivi.atakann.workers.dev/?ID=https://www.filmmodu.biz/shutter-island-hd-film-izle
+#EXTINF:-1, Çelik Yumruklar
+https://filmarsivi.atakann.workers.dev/?ID=https://www.filmmodu.biz/real-steel-film-izle
+#EXTINF:-1, Ratatouille 
+https://filmarsivi.atakann.workers.dev/?ID=https://www.filmmodu.biz/ratatouille-hd-film-izle
+#EXTINF:-1, Malefiz
+https://filmarsivi.atakann.workers.dev/?ID=https://www.filmmodu.biz/maleficent-hd-film-izle
+#EXTINF:-1, Malefiz 1
+https://vidmody.com/vs/tt1587310
+#EXTINF:-1, I Am Legend 
+https://filmarsivi.atakann.workers.dev/?ID=https://www.filmmodu.biz/i-am-legend-hd-film-izle
+#EXTINF:-1, Deha
+https://filmarsivi.atakann.workers.dev/?ID=https://www.filmmodu.biz/gifted-hd-film-izle
+#EXTINF:-1, Cast Away
+https://filmarsivi.atakann.workers.dev/?ID=https://www.filmmodu.biz/cast-away-film-izle
+#EXTINF:-1, Doktor Str
+https://filmarsivi.atakann.workers.dev/?ID=https://www.filmmodu.biz/doktor-str-film-izle
+#EXTINF:-1, Doctor Strange
+https://s26.imglink.pro/ml/ET9eqT9lYyA0pzShM2HhZGN4ZUNhESIOGNd0zxnJ1aoTyhnl5jpz8s0xi26vr1
+#EXTINF:-1, Yenilmez 1
+https://vidrame.pro/vr/get/2019ae99/1080.txt?=.mp4
+#EXTINF:-1, Metrodan Kaçış 2009 (vidrame)
+https://vidrame.pro/vr/get/5a36d5ba/1080.txt?=.mp4
+#EXTINF:-1, Rafadan Tayfa Kapadokya
+https://vidmody.com/mm/tt35156304/main_1080/index-v1-a1.gif
+#EXTINF:-1, Ejderhani nasil egitirsin 2
+https://vidrame.pro/vr/get/4713d96a/1080.txt
+#EXTINF:-1, Ejderhani nasil egitirsin 3
+https://s3.imagebin.pics/mm/FT93YaEiYyElLJyhYyyiqKVhEUWuM29hYwZhZwNkBF4kZQtjYzE1LJjd0zxnJ1uM2IvnJ4hpTywpjs0xi3vr1
+#EXTINF:-1, Shrek 1
+https://vidrame.pro/vr/get/45ba91a9/1080.txt
+#EXTINF:-1, Shrek 2
+https://vidmody.com/vs/tt0298148
+#EXTINF:-1, Shrek_2 2004
+http://movie.okru.workers.dev/?ID=7467240597896
+#EXTINF:-1, Shrek 4
+https://vidrame.pro/vr/get/cc6feded/1080.txt
+#EXTINF:-1, WALL·E
+https://vidrame.pro/vr/get/58390cad/1080.txt
+#EXTINF:-1, Jumanji 1
+https://vidmody.com/vs/tt0113497
+#EXTINF:-1, Jumanji 2
+https://vidmody.com/vs/tt2283362
+#EXTINF:-1, Jumanji 3
+https://vidmody.com/vs/tt7975244
+#EXTINF:-1, Son Samuray Last Samurai
+http://movies.hdfilm.workers.dev/?ID=son-samuray-fh2/
+#EXTINF:-1, Son Samuray Last Samurai
+http://movie.okru.workers.dev/?ID=7163345906056
+#EXTINF:-1, Deniz Canavarı 2022
+http://movie.okru.workers.dev/?ID=7467888224648
+#EXTINF:-1, Demiryolu Kaplanları 2016
+http://movie.okru.workers.dev/?ID=7163505682824
+#EXTINF:-1, Sirinler Kayıp Köy 2017
+http://movie.okru.workers.dev/?ID=7467268974984
+#EXTINF:-1, Madalyon 
+http://movie.okru.workers.dev/?ID=7384911194504
 
 #EXTINF:-1 tvg-name="###deneme###" tvg-logo="https://i.hizliresim.com/i21k4te.png",###deneme### 
 https://ornek.m3u8
