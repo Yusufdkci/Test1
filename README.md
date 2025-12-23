@@ -10,6 +10,8 @@ https://raw.githubusercontent.com/Yusufdkci/iptv/main/liste.m3u
 ## 🔗 Kısa Linkler
 Aşağıdaki kısa linkler, IPTV uygulamalarında listeyi eklemek ve daha kolay kullanım sağlamak amacıyla oluşturulmuştur:
 
+#paylasimiptv #tvkanallari #m3u0001
+
 is.gd:
 https://is.gd/canlitv01
 
