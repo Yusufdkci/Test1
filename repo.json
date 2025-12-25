@@ -1,0 +1,8 @@
+{
+    "name": "Yusuf IPTV",
+    "description": "Kişisel IPTV Kanal Depom",
+    "manifestVersion": 1,
+    "pluginLists": [
+        "https://raw.githubusercontent.com/Yusufdkci/iptv/main/plugins.json"
+    ]
+}
