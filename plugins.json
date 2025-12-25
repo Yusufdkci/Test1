@@ -1,12 +1,15 @@
 [
   {
-    "name": "Yusuf IPTV Oynatıcı",
+    "name": "Yusuf IPTV",
     "url": "https://github.com/Hexated/CloudStream-Extensions/raw/builds/IPTV.zip",
-    "description": "Yusuf'un Özel Kanal Listesi",
+    "description": "Kendi M3U Listenizi İçeriden Ekleyin",
     "author": "Yusuf",
     "version": 1,
-    "tvTypes": ["LiveStream"],
+    "tvTypes": [
+      "LiveStream"
+    ],
     "language": "tr",
-    "iconUrl": "https://raw.githubusercontent.com/Yusufdkci/iptv/main/icon.png"
+    "iconUrl": "https://raw.githubusercontent.com/Yusufdkci/iptv/main/icon.png",
+    "status": 1
   }
 ]
