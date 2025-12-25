@@ -1,8 +1,14 @@
 [
   {
-    "name": "Yusuf TV",
+    "name": "Yusuf IPTV Oynatıcı",
     "url": "https://github.com/Hexated/CloudStream-Extensions/raw/builds/IPTV.zip",
-    "tvTypes": ["LiveStream"],
-    "language": "tr"
+    "description": "Benim M3U Listem",
+    "author": "Yusuf",
+    "version": 1,
+    "tvTypes": [
+      "LiveStream"
+    ],
+    "language": "tr",
+    "status": 1
   }
 ]
