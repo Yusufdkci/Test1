@@ -529,13 +529,13 @@ http://iptv.prosto.tv:7000/ch344/video.m3u8
 http://iptv.prosto.tv:7000/ch338/video.m3u8
 #EXTINF:-1, relax 20
 http://iptv.prosto.tv:7000/ch347/video.m3u8
-##############
+
 #EXTINF:-1 tvg-name="🍿🎬Filmler🍿🎬" tvg-logo="https://i.hizliresim.com/i21k4te.png",🍿🎬Filmler🍿🎬
 https://videos.pexels.com/video-files/30602012/13102656_1440_2560_30fps.mp4?=.mpg
 
-#EXTINF:-1, Karate Kid
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",Karate Kid
 http://movies.hdfilm.workers.dev/?ID=karateci-cocuk-fh2/
-#EXTINF:-1, esaretin bedeli
+#EXTINF:-1 tvg-id="esaretin bedeli" tvg-name="esaretin bedeli" tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",esaretin bedeli
 https://filmarsivi.atakann.workers.dev/?ID=https://www.filmmodu.biz/the-shawshank-redemption-hd-film-izle
 #EXTINF:-1, Yol Arkadaşım (archive)
 https://ia601707.us.archive.org/24/items/yol-arkadasim/Yol%20Arkada%C5%9F%C4%B1m.ia.mp4
@@ -882,5 +882,5 @@ https://ornek.m3u8
 #EXTINF:-1 tvg-name="☢️☢️deneme⚠️⚠️" tvg-logo="https://i.hizliresim.com/i21k4te.png",☢️☢️deneme⚠️⚠️
 https://ornek.m3u8
 
-#EXTINF:-1 tvg-name="🚨🚨deneme🔴🔴" tvg-logo="https://image.tmdb.org/t/p/w500/rZ8C9E3P0zJmL9s3n6x8wGxKJ0x.jpg",🚨🚨deneme🔴🔴
+#EXTINF:-1 tvg-name="🚨🚨deneme🔴🔴" tvg-logo="https://i.imgur.com/8KZQZgC.png",🚨🚨deneme🔴🔴
 https://ornek.m3u8
