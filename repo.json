@@ -1,0 +1,7 @@
+{
+  "name": "Yusuf TV",
+  "manifestVersion": 1,
+  "pluginLists": [
+    "https://raw.githubusercontent.com/Yusufdkci/iptv/main/plugins.json"
+  ]
+}
