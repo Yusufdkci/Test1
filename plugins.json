@@ -1,12 +1,8 @@
 [
   {
-    "name": "Yusuf IPTV Oynatıcı",
+    "name": "Yusuf TV",
     "url": "https://github.com/Hexated/CloudStream-Extensions/raw/builds/IPTV.zip",
-    "description": "Yusuf'un GitHub üzerindeki listesini oynatmak için geliştirilmiş motor.",
-    "author": "Yusuf & Hexated",
-    "version": 1,
     "tvTypes": ["LiveStream"],
-    "language": "tr",
-    "iconUrl": "https://raw.githubusercontent.com/Yusufdkci/iptv/main/icon.png"
+    "language": "tr"
   }
 ]
