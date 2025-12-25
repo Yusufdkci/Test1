@@ -1,0 +1,10 @@
+[
+    {
+        "name": "Yusuf List Oynatıcı",
+        "url": "https://raw.githubusercontent.com/Yusufdkci/iptv/main/liste.m3u",
+        "description": "Yusuf'un GitHub üzerindeki güncel listesini oynatır.",
+        "tvTypes": ["LiveStream"],
+        "language": "tr",
+        "iconUrl": "https://raw.githubusercontent.com/Yusufdkci/iptv/main/icon.png"
+    }
+]
