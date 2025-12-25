@@ -1,10 +1,13 @@
 [
     {
-        "name": "Yusuf List Oynatıcı",
+        "name": "Yusuf List",
         "url": "https://raw.githubusercontent.com/Yusufdkci/iptv/main/liste.m3u",
-        "description": "Yusuf'un GitHub üzerindeki güncel listesini oynatır.",
+        "description": "Benim M3U Listem",
         "tvTypes": ["LiveStream"],
         "language": "tr",
-        "iconUrl": "https://raw.githubusercontent.com/Yusufdkci/iptv/main/icon.png"
+        "iconUrl": "https://raw.githubusercontent.com/Yusufdkci/iptv/main/icon.png",
+        "version": 1,
+        "author": "Yusuf",
+        "status": 1
     }
 ]
