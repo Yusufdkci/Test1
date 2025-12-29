@@ -884,3 +884,9 @@ https://ornek.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",🚨🚨deneme🔴🔴
 https://ornek.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",normal link
+https://drive.google.com/file/d/1dK26gyK7Vm6i9jba5TKx3FCrVvB8mCRu/view?usp=drivesdk
+
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Filmler",değişen link
+https://drive.google.com/uc?export=download&id=1dK26gyK7Vm6i9jba5TKx3FCrVvB8mCRu
